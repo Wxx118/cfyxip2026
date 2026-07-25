@@ -1,9 +1,9 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 07-25 22:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 07-25 22:40 | BestCF.pages.dev
+staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
-9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 store.ubi.com:443#VPS789优选 | store.ubi.com
