@@ -16,7 +16,7 @@ MetaCubeX/mihomo|1.19.29|2026-07-18
 Nemu-x/SlothClash|0.8.0|2026-07-20
 Openwrt-Passwall/openwrt-passwall|26.7.24-1|2026-07-24
 Openwrt-Passwall/openwrt-passwall2|26.7.16-1|2026-07-16
-PhoenixNil/XrayUI-dev|1.17|2026-07-14
+PhoenixNil/XrayUI-dev|1.18|2026-07-26
 RoperYoung/clash-mihomo-for-haymonyos|2.11.27-meta-harmony-r1|2026-05-25
 SagerNet/sing-box|1.13.14|2026-06-25
 Sitoi/ClashBar|0.3.2|2026-07-19
