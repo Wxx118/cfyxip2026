@@ -1,4 +1,4 @@
-name: s5gy
+name: s5gy-cf
 
 on:
   workflow_dispatch:
