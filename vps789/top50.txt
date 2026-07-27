@@ -1,11 +1,11 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-27 17:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-27 18:12 | BestCF.pages.dev
+www.shopify.com:443#VPS789优选 | www.shopify.com
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
-www.shopify.com:443#VPS789优选 | www.shopify.com
 openai.com:443#VPS789优选 | openai.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 dnew.cc:443#VPS789优选 | dnew.cc
@@ -13,6 +13,7 @@ youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
+10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
@@ -20,7 +21,6 @@ www.sloomb.com:443#VPS789优选 | www.sloomb.com
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
-cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
@@ -36,8 +36,8 @@ zeas.top:443#VPS789优选 | zeas.top
 edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
-cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 nexusmods.com:443#VPS789优选 | nexusmods.com
+cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
