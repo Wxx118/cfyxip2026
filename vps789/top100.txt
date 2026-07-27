@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 07-27 10:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 07-27 11:11 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
@@ -31,13 +31,11 @@ hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
-www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
 zeas.top:443#VPS789优选 | zeas.top
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
-www.dg22.top:443#VPS789优选 | www.dg22.top
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 fk.hshwk.org:443#VPS789优选 | fk.hshwk.org
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
@@ -59,7 +57,6 @@ adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
-www.swowd.com:443#VPS789优选 | www.swowd.com
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
@@ -73,6 +70,7 @@ cloudflare.rainyfall.com:443#VPS789优选 | cloudflare.rainyfall.com
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 cf.xycf.asia:443#VPS789优选 | cf.xycf.asia
 edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
+www.dg22.top:443#VPS789优选 | www.dg22.top
 cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 eii.at:443#VPS789优选 | eii.at
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
@@ -83,20 +81,22 @@ saas.sin.fan:443#VPS789优选 | saas.sin.fan
 cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 isp.254301.xyz:443#VPS789优选 | isp.254301.xyz
+www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
 bestcfv4.030101.xyz:443#VPS789优选 | bestcfv4.030101.xyz
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 www.sage.com:443#VPS789优选 | www.sage.com
+www.swowd.com:443#VPS789优选 | www.swowd.com
 my.dnshe.com:443#VPS789优选 | my.dnshe.com
 markmonitor.com:443#VPS789优选 | markmonitor.com
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
+yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 hzytjy.cn:443#VPS789优选 | hzytjy.cn
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
-cf.duun.eu.cc:443#VPS789优选 | cf.duun.eu.cc
 ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
-www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
+cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
