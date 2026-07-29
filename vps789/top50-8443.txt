@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-30 02:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-30 02:41 | BestCF.pages.dev
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
@@ -14,7 +14,6 @@ cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 dnew.cc:8443#VPS789优选 | dnew.cc
 www.jimdo.com:8443#VPS789优选 | www.jimdo.com
 www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
-4.cf.3666888.xyz:8443#VPS789优选 | 4.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 www.xiaoshuofen.com:8443#VPS789优选 | www.xiaoshuofen.com
 www.galgamex.net:8443#VPS789优选 | www.galgamex.net
@@ -24,8 +23,6 @@ cloudflare.cfgo.cc:8443#VPS789优选 | cloudflare.cfgo.cc
 www.xflash.vip:8443#VPS789优选 | www.xflash.vip
 www.5199dy.com:8443#VPS789优选 | www.5199dy.com
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
-www.akasantech.com:8443#VPS789优选 | www.akasantech.com
-a.lma.de5.net:8443#VPS789优选 | a.lma.de5.net
 cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 cdn.555586.xyz:8443#VPS789优选 | cdn.555586.xyz
@@ -39,7 +36,6 @@ play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 kuaidianlian.com.cn:8443#VPS789优选 | kuaidianlian.com.cn
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
-cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
 cmcc.cc.cd:8443#VPS789优选 | cmcc.cc.cd
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 dongbanghong.com:8443#VPS789优选 | dongbanghong.com
@@ -48,5 +44,9 @@ store.ubi.com:8443#VPS789优选 | store.ubi.com
 www.ox.ac.uk:8443#VPS789优选 | www.ox.ac.uk
 cdn.cf.3666888.xyz:8443#VPS789优选 | cdn.cf.3666888.xyz
 keji.cf.3666888.xyz:8443#VPS789优选 | keji.cf.3666888.xyz
-jp.cf.3666888.xyz:8443#VPS789优选 | jp.cf.3666888.xyz
+cf1s.cf.3666888.xyz:8443#VPS789优选 | cf1s.cf.3666888.xyz
+cloudflare.rainyfall.com:8443#VPS789优选 | cloudflare.rainyfall.com
+adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
+eteaf.cf.3666888.xyz:8443#VPS789优选 | eteaf.cf.3666888.xyz
+9.cf.3666888.xyz:8443#VPS789优选 | 9.cf.3666888.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
