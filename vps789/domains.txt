@@ -3,6 +3,7 @@ store.ubi.com
 staticdelivery.nexusmods.com
 sg.cf.3666888.xyz
 123.cf.3666888.xyz
+2.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 www.galgamex.net
 eii.at
@@ -61,6 +62,7 @@ cf.v8.longsays.com
 cloudflare.cfgo.cc
 kniu.cc
 cfip-avg.stoeaves.us.ci
+cfip-cm.stoeaves.us.ci
 cf.92555.xyz
 gh-proxy.com
 www.sage.com
@@ -74,6 +76,7 @@ hfqek.cf.3666888.xyz
 cdn.cf.3666888.xyz
 cf.727672.xyz
 ct.hw.090227.xyz
+a.lma.de5.net
 fw8je9.cf.3666888.xyz
 9.cf.3666888.xyz
 01-qq.com
@@ -83,7 +86,6 @@ www.swowd.com
 investor.apple.com
 china-telecom.cname.cloudflare.468123.xyz
 www.ntu.edu.sg
-a.lma.de5.net
 yg11.ygkkk.dpdns.org
 baka.fun
 fk.hshwk.org
@@ -95,7 +97,6 @@ dnew.cc
 www.leics.police.uk
 jp.cf.3666888.xyz
 cf.cf.3666888.xyz
-2.cf.3666888.xyz
 chrono24.com
 edgeone.gh-proxy.org
 cf.itv888.cn
@@ -135,6 +136,7 @@ dango.co
 networksolutions.com
 cf.877771.xyz
 da.mfa.gov.ua
+f.lma.de5.net
 qy.cf.727672.xyz
 tt.78607323.xyz
 cloudflare-ip.mofashi.ltd
@@ -149,9 +151,8 @@ www.sofi.com
 doro.lol
 lt.zhuqq.qzz.io
 cdn.204910.best
+tajikistan.mfa.gov.ua
 store.epicgames.com
-f.lma.de5.net
-cfip-cm.stoeaves.us.ci
 mail.murata.com
 zero-trust-client.cloudflareclient.com
 qualitytraining.zeiss.com
@@ -160,14 +161,15 @@ encryptedsni.com
 hzytjy.cn
 www.trumpgolf.com
 cloudflare.182682.xyz
+ping.pe
+cf.877774.xyz
 www.5199dy.com
-tajikistan.mfa.gov.ua
 yapuyapu.com
+yg3.ygkkk.dpdns.org
 markmonitor.com
 china-mobile.cname.cloudflare.468123.xyz
 www.trumpinternationalrealty.com
 www.visa.com.tw
-cf.877774.xyz
 racerseseries.sky.com
 trump.com
 cdn-1.dogeggo.us.ci
@@ -182,9 +184,9 @@ www.visa.com.sg
 www.speedtest.net
 cfdl.3666888.xyz
 cmcc.hw.090227.xyz
+visa.com
 cmcc.877774.xyz
 stackoverflow.com
-visa.com
 www.ox.ac.uk
 virtualcommtraining.verizon.com
 page.mercer.com
@@ -194,7 +196,5 @@ d.lma.de5.net
 cf1.v8.longsays.com
 china.mfa.gov.ua
 www.mfyx.cn
-www.adbcardpay.xyz
-e.lma.de5.net
 china-unicom.cname.cloudflare.468123.xyz
 cf-cname.xingpingcn.top
