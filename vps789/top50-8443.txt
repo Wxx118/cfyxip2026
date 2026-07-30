@@ -1,12 +1,13 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-30 11:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-30 11:41 | BestCF.pages.dev
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 saas.sin.fan:8443#VPS789优选 | saas.sin.fan
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
+cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
+keji.cf.3666888.xyz:8443#VPS789优选 | keji.cf.3666888.xyz
 sanwang.cf.3666888.xyz:8443#VPS789优选 | sanwang.cf.3666888.xyz
 cf1s.cf.3666888.xyz:8443#VPS789优选 | cf1s.cf.3666888.xyz
-cloudflare.rainyfall.com:8443#VPS789优选 | cloudflare.rainyfall.com
 uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
 7.cf.3666888.xyz:8443#VPS789优选 | 7.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:8443#VPS789优选 | yg1.ygkkk.dpdns.org
@@ -14,7 +15,6 @@ www.swowd.com:8443#VPS789优选 | www.swowd.com
 zeas.top:8443#VPS789优选 | zeas.top
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
-cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 nexusmods.com:8443#VPS789优选 | nexusmods.com
@@ -35,7 +35,6 @@ cnllm.com:8443#VPS789优选 | cnllm.com
 kniu.cc:8443#VPS789优选 | kniu.cc
 101yaoye.com:8443#VPS789优选 | 101yaoye.com
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
-cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 01-cctv.com:8443#VPS789优选 | 01-cctv.com
 01-qq.com:8443#VPS789优选 | 01-qq.com
 www.dg22.top:8443#VPS789优选 | www.dg22.top
@@ -46,7 +45,8 @@ cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 cdn.204910.best:8443#VPS789优选 | cdn.204910.best
-cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
+cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 bbs.alipansou.com:8443#VPS789优选 | bbs.alipansou.com
 dnew.cc:8443#VPS789优选 | dnew.cc
+www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
