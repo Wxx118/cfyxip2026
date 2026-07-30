@@ -1,13 +1,14 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-30 19:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-30 20:11 | BestCF.pages.dev
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 saas.sin.fan:8443#VPS789优选 | saas.sin.fan
-cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 store.ubi.com:8443#VPS789优选 | store.ubi.com
 sg.cf.3666888.xyz:8443#VPS789优选 | sg.cf.3666888.xyz
 uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
 9.cf.3666888.xyz:8443#VPS789优选 | 9.cf.3666888.xyz
 kniu.cc:8443#VPS789优选 | kniu.cc
 cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
+yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
+cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 cdn.204910.best:8443#VPS789优选 | cdn.204910.best
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
@@ -29,7 +30,7 @@ cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
-yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
+01-cctv.com:8443#VPS789优选 | 01-cctv.com
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
@@ -38,7 +39,6 @@ pwjbl.me:8443#VPS789优选 | pwjbl.me
 cnllm.com:8443#VPS789优选 | cnllm.com
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
-01-cctv.com:8443#VPS789优选 | 01-cctv.com
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
 www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
