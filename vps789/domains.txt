@@ -43,6 +43,7 @@ adnjv.cf.3666888.xyz
 10.cf.3666888.xyz
 yg1.ygkkk.dpdns.org
 cmcc.cc.cd
+cloudflare.468123.xyz
 01-cctv.com
 www.akasantech.com
 prompt.gzcrtw.com
@@ -51,7 +52,6 @@ edgeone.gh-proxy.org
 yx.oracle-img.eu.org
 oo.xzhi.eu.org
 bbs.alipansou.com
-cdn.2020111.xyz
 cdns.doon.eu.org
 www.mc.js.cool
 pwjbl.me
@@ -69,6 +69,7 @@ www.xflash.vip
 www.dg22.top
 fk.hshwk.org
 cf.neko.cloudflaree.eu.org
+cdn.2020111.xyz
 store.ubi.com
 staticdelivery.nexusmods.com
 cfvip.cf.3666888.xyz
@@ -83,7 +84,6 @@ www.vastnovel.com
 cfip-ct.stoeaves.us.ci
 yg11.ygkkk.dpdns.org
 101yaoye.com
-cloudflare.468123.xyz
 cf.090227.xyz
 cloudflare.182682.xyz
 www.visa.com.hk
@@ -134,17 +134,18 @@ cf-cname.xingpingcn.top
 avido.cf.3666888.xyz
 doro.lol
 nrtcfdns.zone.id
+virtualcommtraining.verizon.com
 www.5h.com
 y508.com
+yd.zhuqq.qzz.io
 cfip.1323123.xyz
-virtualcommtraining.verizon.com
 cf.cf.3666888.xyz
 cf.998866.top
+cf-ip-node.vov.moe
 store.ubisoft.com
 ct.721660.xyz
 cfip-cm.stoeaves.us.ci
 8.cf.3666888.xyz
-cf-ip-node.vov.moe
 appstorrent.ru
 zero-trust-client.cloudflareclient.com
 encryptedsni.com
@@ -167,7 +168,6 @@ a.lma.de5.net
 china-unicom.cname.cloudflare.468123.xyz
 cf.duun.eu.cc
 www.trumpinternationalrealty.com
-pubs.acs.org
 1.cloudflare.19931110.xyz
 www.visa.com.sg
 store.epicgames.com
@@ -177,6 +177,7 @@ ping.pe
 email.lg.com
 china-telecom.cname.cloudflare.468123.xyz
 trump.com
+pubs.acs.org
 stlouiscountymo.gov
 mskcc.org
 cfdl.3666888.xyz
@@ -184,7 +185,6 @@ cloudflare-ip.mofashi.ltd
 csgo.com
 www.whoer.net
 www.fastsoso.cn
-yg6.ygkkk.dpdns.org
 www.galgamex.net
 dns.163189.xyz
 cfip-cu.stoeaves.us.ci
@@ -194,7 +194,7 @@ investor.apple.com
 visa.com
 i.111666.best
 aqua-aria.company
-www.epicgames.com
 yxip.xxxxxxxx.tk
-tajikistan.mfa.gov.ua
 yg3.ygkkk.dpdns.org
+yg6.ygkkk.dpdns.org
+www.epicgames.com
