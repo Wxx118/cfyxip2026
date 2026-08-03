@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 08-04 06:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 08-04 06:41 | BestCF.pages.dev
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 openai.com:8443#VPS789优选 | openai.com
 www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
@@ -8,6 +8,7 @@ cloudflare.rainyfall.com:8443#VPS789优选 | cloudflare.rainyfall.com
 9.cf.3666888.xyz:8443#VPS789优选 | 9.cf.3666888.xyz
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
 cdn.2x.nz:8443#VPS789优选 | cdn.2x.nz
+doro.lol:8443#VPS789优选 | doro.lol
 cf.neko.cloudflaree.eu.org:8443#VPS789优选 | cf.neko.cloudflaree.eu.org
 oo.xzhi.eu.org:8443#VPS789优选 | oo.xzhi.eu.org
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
@@ -41,12 +42,11 @@ yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
 eii.at:8443#VPS789优选 | eii.at
 www.xiaoshuofen.com:8443#VPS789优选 | www.xiaoshuofen.com
 www.mfyx.cn:8443#VPS789优选 | www.mfyx.cn
+zeas.top:8443#VPS789优选 | zeas.top
 www.akasantech.com:8443#VPS789优选 | www.akasantech.com
 prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
 cfip-cm.stoeaves.us.ci:8443#VPS789优选 | cfip-cm.stoeaves.us.ci
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
-cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
-edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
