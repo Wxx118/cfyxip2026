@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 08-05 01:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 08-05 02:12 | BestCF.pages.dev
 cdn.fiatnorm.us.kg:443#VPS789优选 | cdn.fiatnorm.us.kg
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
@@ -10,6 +10,9 @@ sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
+hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
+6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
+yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 cf.1o.ee:443#VPS789优选 | cf.1o.ee
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
 www.mfyx.cn:443#VPS789优选 | www.mfyx.cn
@@ -30,9 +33,8 @@ qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
-6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
-yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
+10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 eii.at:443#VPS789优选 | eii.at
@@ -47,6 +49,4 @@ prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
-edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
-ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
