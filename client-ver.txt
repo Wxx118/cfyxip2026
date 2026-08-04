@@ -25,7 +25,9 @@ Zzz-IT/GoclashZ|1.2.3|2026-07-25
 appshubcc/Bettbox|1.18.8|2026-07-31
 chen08209/FlClash|0.8.94|2026-07-11
 clash-verge-rev/clash-verge-rev|2.5.2|2026-07-20
+dododook/FlowZ|4.3.0|2026-07-28
 flowvy-proxy/desktop|0.3.4|2026-07-09
+genyleap/GenyConnect|1.4.894|2026-07-27
 getsurfboard/surfboard|mobile-2.34.1|2026-08-04
 hiddify/hiddify-next|4.1.1|2026-03-06
 likuai2010/auto-installer|3.1.0|2026-03-25
@@ -38,6 +40,7 @@ shadowsocks/shadowsocks-android|5.3.5-nightly|2026-02-10
 shadowsocks/shadowsocks-rust|1.24.0|2025-12-11
 shadowsocks/shadowsocks-windows|4.4.1.0|2022-02-08
 snakem982/Pandora-Box|1.0.22|2026-07-04
+songzhengpei/Slclash|2.0.8|2026-07-25
 v2fly/v2ray-core|5.52.0|2026-07-07
 vernesong/OpenClash|0.47.133|2026-07-18
 vernesong/mihomo|Pre-release
