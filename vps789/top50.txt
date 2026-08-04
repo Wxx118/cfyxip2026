@@ -1,8 +1,7 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 08-05 05:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 08-05 06:11 | BestCF.pages.dev
 cdn.fiatnorm.us.kg:443#VPS789优选 | cdn.fiatnorm.us.kg
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
-cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 dnew.cc:443#VPS789优选 | dnew.cc
 pwjbl.me:443#VPS789优选 | pwjbl.me
@@ -24,6 +23,7 @@ cf.neko.cloudflaree.eu.org:443#VPS789优选 | cf.neko.cloudflaree.eu.org
 www.shopify.com:443#VPS789优选 | www.shopify.com
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
+cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
