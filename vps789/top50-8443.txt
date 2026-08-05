@@ -1,10 +1,12 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 08-05 19:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 08-05 19:41 | BestCF.pages.dev
 avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 dongbanghong.com:8443#VPS789优选 | dongbanghong.com
 cf.yfjc.sbs:8443#VPS789优选 | cf.yfjc.sbs
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 cloudflare.idc.rocks:8443#VPS789优选 | cloudflare.idc.rocks
+dnew.cc:8443#VPS789优选 | dnew.cc
+www.jimdo.com:8443#VPS789优选 | www.jimdo.com
 pwjbl.me:8443#VPS789优选 | pwjbl.me
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
 vip.cf.3666888.xyz:8443#VPS789优选 | vip.cf.3666888.xyz
@@ -22,6 +24,8 @@ cdn.2x.nz:8443#VPS789优选 | cdn.2x.nz
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 www.dg22.top:8443#VPS789优选 | www.dg22.top
 fk.hshwk.org:8443#VPS789优选 | fk.hshwk.org
+anycubic.com:8443#VPS789优选 | anycubic.com
+cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
 coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
 yx.oracle-img.eu.org:8443#VPS789优选 | yx.oracle-img.eu.org
 cdn.fiatnorm.us.kg:8443#VPS789优选 | cdn.fiatnorm.us.kg
@@ -33,8 +37,8 @@ saas.sin.fan:8443#VPS789优选 | saas.sin.fan
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 store.ubi.com:8443#VPS789优选 | store.ubi.com
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
+gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
-www.jimdo.com:8443#VPS789优选 | www.jimdo.com
 cf.cf.3666888.xyz:8443#VPS789优选 | cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com:8443#VPS789优选 | cloudflare.rainyfall.com
@@ -45,8 +49,4 @@ yg1.ygkkk.dpdns.org:8443#VPS789优选 | yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:8443#VPS789优选 | yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
-www.swowd.com:8443#VPS789优选 | www.swowd.com
-www.xiaoshuofen.com:8443#VPS789优选 | www.xiaoshuofen.com
-www.xflash.vip:8443#VPS789优选 | www.xflash.vip
-www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
