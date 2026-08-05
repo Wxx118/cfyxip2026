@@ -1,3 +1,4 @@
+anycubic.com
 www.shopify.com
 pwjbl.me
 jp.cf.3666888.xyz
@@ -100,15 +101,14 @@ www.speedtest.net
 baka.fun
 doro.lol
 www.giannidelprete.it
-anycubic.com
 play.mc.js.cool
 cf.xycf.asia
 dango.co
+101yaoye.com
 my.dnshe.com
 cdn-1.dogeggo.us.ci
 www.5199dy.com
 kniu.cc
-101yaoye.com
 cloudflare.468123.xyz
 visa.com
 www.postman.com
@@ -123,6 +123,7 @@ cmcc.hw.090227.xyz
 ct.hw.090227.xyz
 zeas.top
 www.dg22.top
+cf.itv888.cn
 images.chesscomfiles.com
 visa.com.tw
 cdn.2020111.xyz
@@ -130,7 +131,6 @@ www.visa.com.hk
 qocu.cf.3666888.xyz
 cf.998866.top
 cdn.ddeed.de
-cf.itv888.cn
 wxp.l2.ink
 oo.xzhi.eu.org
 nrtcfdns.zone.id
@@ -161,8 +161,10 @@ yg3.ygkkk.dpdns.org
 china-unicom.cname.cloudflare.468123.xyz
 appstorrent.ru
 laitemi.com
+aqua-aria.company
 qualitytraining.zeiss.com
 mogas.com
+china.mfa.gov.ua
 shanghai.mfa.gov.ua
 chrono24.com
 virtualcommtraining.verizon.com
@@ -171,7 +173,6 @@ bestcf.top
 cmcc.090227.xyz
 www.epicgames.com
 ddk.cfyx.20237737.xyz
-china.mfa.gov.ua
 hzytjy.cn
 cfip-cu.stoeaves.us.ci
 cnamefuckxxs.yuchen.icu
@@ -186,11 +187,10 @@ tajikistan.mfa.gov.ua
 da.mfa.gov.ua
 stackoverflow.com
 www.5h.com
+f.lma.de5.net
 csgo.com
-aqua-aria.company
 dns.163189.xyz
 vps.cheng2001.top
-cf.nyanya.moe
 i.111666.best
 dynadot.com
 lt.zhuqq.qzz.io
