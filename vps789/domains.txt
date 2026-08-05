@@ -8,6 +8,7 @@ cf.yfjc.sbs
 cdn.fiatnorm.us.kg
 neko.cloudflaree.eu.org
 cfsaas.080112.xyz
+store.ubi.com
 dnew.cc
 www.jimdo.com
 hk.cf.3666888.xyz
@@ -62,7 +63,6 @@ yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 www.swowd.com
 cmcc.cc.cd
-01-cctv.com
 cfplus.255520.xyz
 dongbanghong.com
 neko.cloudd.eu.org
@@ -74,6 +74,7 @@ cf.godns.cc
 cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 www.mlkj888.com
+01-cctv.com
 cdn.wzkf88.com
 www.akasantech.com
 bbs.alipansou.com
@@ -83,13 +84,13 @@ test.509666.xyz
 run.254301.xyz
 markmonitor.com
 fk.hshwk.org
+cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
 edgeone.gh-proxy.org
+cloudflare.182682.xyz
 cmcc.vvvv.ee
 www.galgamex.net
 qy.cf.727672.xyz
-cfip-avg.stoeaves.us.ci
-cloudflare.182682.xyz
 ct.090227.xyz
 www.speedtest.net
 123.cf.3666888.xyz
@@ -111,7 +112,6 @@ visa.com
 www.postman.com
 cloudflare.cfgo.cc
 cmcc.877774.xyz
-store.ubi.com
 staticdelivery.nexusmods.com
 fw8je9.cf.3666888.xyz
 isp.254301.xyz
@@ -158,7 +158,6 @@ www.visa.cn
 networksolutions.com
 yg3.ygkkk.dpdns.org
 china-unicom.cname.cloudflare.468123.xyz
-cf.nyanya.moe
 laitemi.com
 qualitytraining.zeiss.com
 mogas.com
@@ -169,13 +168,14 @@ virtualcommtraining.verizon.com
 athome.com
 bestcf.top
 cmcc.090227.xyz
+www.epicgames.com
 ddk.cfyx.20237737.xyz
 china.mfa.gov.ua
 hzytjy.cn
 cfip-cu.stoeaves.us.ci
+cf.nyanya.moe
 cnamefuckxxs.yuchen.icu
 www.visa.com.tw
-www.epicgames.com
 yd.zhuqq.qzz.io
 cf.090227.xyz
 zero-trust-client.cloudflareclient.com
@@ -191,10 +191,10 @@ aqua-aria.company
 dns.163189.xyz
 vps.cheng2001.top
 i.111666.best
+dynadot.com
 lt.zhuqq.qzz.io
 cfip.1323123.xyz
 www.visa.com.sg
+yxip.xxxxxxxx.tk
 bestcfv4.030101.xyz
 store.epicgames.com
-f.lma.de5.net
-www.yutank.com
