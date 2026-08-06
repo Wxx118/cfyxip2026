@@ -131,6 +131,7 @@ bestcfv4.030101.xyz
 networksolutions.com
 isp.254301.xyz
 cnllm.com
+01-cctv.com
 chrono24.com
 cf.xycf.asia
 visa.com
@@ -138,7 +139,6 @@ www.visa.com.hk
 investor.apple.com
 yxip.xxxxxxxx.tk
 6.cf.3666888.xyz
-01-cctv.com
 wxp.l2.ink
 www.postman.com
 www.6i5.com
@@ -184,7 +184,6 @@ cloudflare.cfgo.cc
 cf.727672.xyz
 mail.murata.com
 www.visa.cn
-nrtcfdns.zone.id
 cdn.tzpro.xyz
 xn--b6gac.eu.org
 cf2.996616.xyz
@@ -197,4 +196,5 @@ test.cloudflare.182682.xyz
 ip.skk.moe
 666.cf.cname.vvhan.com
 ali.nonull.pp.ua
+nrtcfdns.zone.id
 kickstarter.com
