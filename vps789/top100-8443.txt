@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 08-06 09:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 08-06 09:41 | BestCF.pages.dev
 anycubic.com:8443#VPS789优选 | anycubic.com
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 pwjbl.me:8443#VPS789优选 | pwjbl.me
@@ -90,7 +90,6 @@ fk.hshwk.org:8443#VPS789优选 | fk.hshwk.org
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci:8443#VPS789优选 | cfip-cm.stoeaves.us.ci
 edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
-cloudflare.182682.xyz:8443#VPS789优选 | cloudflare.182682.xyz
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
 www.galgamex.net:8443#VPS789优选 | www.galgamex.net
@@ -99,4 +98,5 @@ ct.090227.xyz:8443#VPS789优选 | ct.090227.xyz
 www.speedtest.net:8443#VPS789优选 | www.speedtest.net
 123.cf.3666888.xyz:8443#VPS789优选 | 123.cf.3666888.xyz
 4.cf.3666888.xyz:8443#VPS789优选 | 4.cf.3666888.xyz
+baka.fun:8443#VPS789优选 | baka.fun
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
