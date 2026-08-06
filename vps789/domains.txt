@@ -53,7 +53,6 @@ cdn.fiatnorm.us.kg
 cdns.doon.eu.org
 www.shopify.com
 openai.com
-cu.877774.xyz
 staticdelivery.nexusmods.com
 www.mc.js.cool
 101yaoye.com
@@ -66,6 +65,7 @@ cdn.ddeed.de
 neko.cloudd.eu.org
 neko.cloudflaree.eu.org
 ct.090227.xyz
+cu.877774.xyz
 www.jimdo.com
 cloudflare.rainyfall.com
 cfyx.qdqqd.com
@@ -84,6 +84,7 @@ nexusmods.com
 qocu.cf.3666888.xyz
 4.cf.3666888.xyz
 test.509666.xyz
+www.nexusmods.com
 www.xiaoshuofen.com
 www.bangbenjiaju.com
 vps.cheng2001.top
@@ -91,6 +92,7 @@ www.5199dy.com
 cloudflare.idc.rocks
 www.xflash.vip
 play.mc.js.cool
+edgeone.gh-proxy.org
 nrt.xxxxxxxx.nyc.mn
 redis.io
 cf.877774.xyz
@@ -123,7 +125,6 @@ www.ox.ac.uk
 www.sage.com
 cf1s.cf.3666888.xyz
 7.cf.3666888.xyz
-www.nexusmods.com
 ex.warspite.dpdns.org
 zero-trust-client.cloudflareclient.com
 ct.877774.xyz
@@ -138,6 +139,7 @@ visa.com
 www.visa.com.hk
 investor.apple.com
 yxip.xxxxxxxx.tk
+saas.072159.xyz
 6.cf.3666888.xyz
 wxp.l2.ink
 www.postman.com
@@ -145,7 +147,6 @@ www.6i5.com
 www.wuduanyun.com
 sg.cf.3666888.xyz
 vip.cf.3666888.xyz
-saas.072159.xyz
 run.254301.xyz
 cmcc.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
@@ -153,6 +154,7 @@ cf.92555.xyz
 cfip.1323123.xyz
 store.epicgames.com
 www.fastsoso.cn
+ddk.cfyx.20237737.xyz
 hzytjy.cn
 cf.legspcpd.furry.bz
 auto.dolby.dpdns.org
@@ -162,7 +164,6 @@ trump.com
 cf.v8.longsays.com
 www.visa.com.tw
 dynadot.com
-ddk.cfyx.20237737.xyz
 www.mfyx.cn
 ctlmt.info
 isp.qzz.io
@@ -178,10 +179,9 @@ www.yutank.com
 pubs.acs.org
 cf.877771.xyz
 dango.co
-edgeone.gh-proxy.org
 appstorrent.ru
-virtualcommtraining.verizon.com
 cloudflare.cfgo.cc
+virtualcommtraining.verizon.com
 cf.727672.xyz
 mail.murata.com
 www.visa.cn
