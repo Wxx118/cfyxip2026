@@ -102,12 +102,10 @@ cf.neko.cloudd.eu.org
 oo.xzhi.eu.org
 hfqek.cf.3666888.xyz
 cf1.v8.longsays.com
-visa.com.tw
 cloudflare.182682.xyz
 cmcc.090227.xyz
 saas.sin.fan
 pwjbl.me
-cnllm.com
 ct.hw.090227.xyz
 cloudflare.468123.xyz
 zeas.top
@@ -116,6 +114,7 @@ images.chesscomfiles.com
 www.epicgames.com
 mogas.com
 china-telecom.cname.cloudflare.468123.xyz
+visa.com.tw
 yd.zhuqq.qzz.io
 bestcf.top
 cmcc.877774.xyz
@@ -131,6 +130,7 @@ ct.877774.xyz
 bestcfv4.030101.xyz
 networksolutions.com
 isp.254301.xyz
+cnllm.com
 chrono24.com
 cf.xycf.asia
 visa.com
@@ -138,6 +138,7 @@ www.visa.com.hk
 investor.apple.com
 yxip.xxxxxxxx.tk
 6.cf.3666888.xyz
+01-cctv.com
 wxp.l2.ink
 www.postman.com
 www.6i5.com
@@ -148,7 +149,6 @@ saas.072159.xyz
 run.254301.xyz
 cmcc.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
-01-cctv.com
 cf.92555.xyz
 cfip.1323123.xyz
 store.epicgames.com
@@ -169,12 +169,12 @@ isp.qzz.io
 cf.553314.xyz
 yd.hhhhh.eu.org
 yapuyapu.com
+ping.pe
 www.ntu.edu.sg
 www.visa.com.sg
 a.lma.de5.net
 www.yutank.com
 pubs.acs.org
-ping.pe
 cf.877771.xyz
 dango.co
 edgeone.gh-proxy.org
