@@ -136,7 +136,7 @@ jobs:
             elif [[ "$remark" =~ "印度" || "$remark" =~ "IN" || "$remark" =~ "🇮🇳" ]]; then 
                 location="干净卫生 | IN"
             elif [[ "$remark" =~ "法国" || "$remark" =~ "FR" || "$remark" =~ "🇫🇷" ]]; then 
-                location="浪漫铁塔 | FR"
+                location="每日乳法 | FR"
             elif [[ "$remark" =~ "加拿大" || "$remark" =~ "CA" || "$remark" =~ "🇨🇦" ]]; then 
                 location="枫叶之国 | CA"
             elif [[ "$remark" =~ "土耳其" || "$remark" =~ "TR" || "$remark" =~ "🇹🇷" ]]; then 
