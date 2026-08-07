@@ -71,6 +71,7 @@ bestcf.030101.xyz:443#大佬维护 | MingYu
 cf.877774.xyz:443#大佬维护 | QMS
 yg1.ygkkk.dpdns.org:443#大佬维护 | YGKKK
 cf.090227.xyz:443#大佬维护 | CMLiu
+cf.3666888.xyz:443#大佬维护 | HuTao
 cf.tencentapp.cn:443#大佬维护 | KTFF
 ct.877774.xyz:443#按运营商 | 电信QMS
 ct.cloudflare.byoip.top:443#按运营商 | 电信Byoip
@@ -78,4 +79,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.198.1:8443#优选域名 | 8-3 | 分享免费优选网BestCF.pages.dev
+162.159.198.1:8443#优选域名 | 8-7 | 分享免费优选网BestCF.pages.dev
