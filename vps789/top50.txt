@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 08-07 08:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 08-07 08:41 | BestCF.pages.dev
 cf.yfjc.sbs:443#VPS789优选 | cf.yfjc.sbs
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
@@ -16,13 +16,16 @@ fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
 zeas.top:443#VPS789优选 | zeas.top
+cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
+cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
+7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 eii.at:443#VPS789优选 | eii.at
@@ -38,6 +41,7 @@ sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
+6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
@@ -45,8 +49,4 @@ www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cdn.wzkf88.com:443#VPS789优选 | cdn.wzkf88.com
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
-dnew.cc:443#VPS789优选 | dnew.cc
-yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
-www.dg22.top:443#VPS789优选 | www.dg22.top
-www.akasantech.com:443#VPS789优选 | www.akasantech.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
