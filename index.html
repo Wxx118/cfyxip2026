@@ -88,7 +88,7 @@
             <div class="notice-mini-card">
                 <b style="color: var(--text-main); margin-right: 8px;">最近更新</b>
                 <!-- <span style="color: var(--border-color); margin: 0 8px;">|</span> -->
-                <div class="notice-list"><span>ProxyIP合集更新</span><span>域名比价</span><span>HongHong优选</span><span>真实地址生成器</span><span>LancelotRar优选</span><span>F大固件</span><span>Via浏览器</span></div>
+                <div class="notice-list"><span>TG电报交流群合集</span><span>ProxyIP合集更新</span><span>域名比价</span><span>HongHong优选</span><span>真实地址生成器</span><span>LancelotRar优选</span><span>F大固件</span></div>
             </div>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">Cloudflare 管理面板</span><span class="tag tag-featured">互联网大善人</span></div>
@@ -174,7 +174,37 @@
                     <div class="url-box"><span class="url-text">bestcf.pages.dev/tools/edt/</span></div>
                     <a href="tools/edt/" class="open-btn" target="_blank">打开链接</a>
                 </div>
-            </div>			
+            </div>
+			<div class="group-card">
+				<div class="group-name">TG电报交流群合集<span class="tag tag-featured">NEW</span></div>
+				<div class="action-area" style="gap: 10px; flex-wrap: wrap; margin-bottom: 12px;">
+					<div class="url-box" style="flex: 1; min-width: 200px; padding: 0 10px;">
+						<select id="tgGroupSelect" class="url-text"
+							style="width: 100%; background: transparent; border: none; outline: none; cursor: pointer; color: var(--text-main);">
+							<option value="https://t.me/bestip_one" style="background-color: #f1f5f9; color: #000000;">优选IP 白嫖</option>
+							<option value="https://t.me/CMLiussss" style="background-color: #f1f5f9; color: #000000;">CMLiussss 技术交流群</option>
+							<option value="https://t.me/+ft-zI76oovgwNmRh" style="background-color: #f1f5f9; color: #000000;">Joey Huang Blog</option>
+							<option value="https://t.me/ygkkktg" style="background-color: #f1f5f9; color: #000000;">甬哥侃侃侃群组讨论</option>
+							<option value="https://t.me/eooceu" style="background-color: #f1f5f9; color: #000000;">老王技术交流分享群</option>
+							<option value="https://t.me/lsmoo" style="background-color: #f1f5f9; color: #000000;">六扇门开车大队</option>
+							<option value="https://t.me/mianfeicf" style="background-color: #f1f5f9; color: #000000;">Tg里的欢乐时光</option>
+							<option value="https://t.me/edtunnel_chat" style="background-color: #f1f5f9; color: #000000;">ED Chat</option>
+							<option value="https://t.me/buliang00" style="background-color: #f1f5f9; color: #000000;">不良林</option>
+							<option value="https://t.me/+FdIuCMoMY-EyNThl" style="background-color: #f1f5f9; color: #000000;">小白鸿蒙交流群</option>
+							<option value="https://t.me/+G-veVtwBOl4wODc1" style="background-color: #f1f5f9; color: #000000;">FlClash Chat</option>
+							<option value="https://t.me/mihomo_party_group" style="background-color: #f1f5f9; color: #000000;">Clash Party 讨论群</option>
+							<option value="https://t.me/clash_verge_rev" style="background-color: #f1f5f9; color: #000000;">Clash Verge Rev 讨论群</option>
+							<option value="https://t.me/v2rayn" style="background-color: #f1f5f9; color: #000000;">v2rayN&G 讨论群</option>
+							<option value="https://t.me/ShadowrocketApp" style="background-color: #f1f5f9; color: #000000;">Shadowrocket 小火箭官方群</option>
+							<option value="https://t.me/Clashclient" style="background-color: #f1f5f9; color: #000000;">Clash 交流群</option>
+							<option value="https://t.me/ACL4SSR" style="background-color: #f1f5f9; color: #000000;">ACL4SSR</option>
+							<option value="https://t.me/clashmeta" style="background-color: #f1f5f9; color: #000000;">mihomo notification</option>
+						</select>
+					</div>
+					<button class="copy-btn" id="tgOpenBtn" onclick="openTgGroup()">加入群组</button>
+				</div>
+			</div>
+			<script>function openTgGroup(){const e=document.getElementById("tgGroupSelect");e?.value&&window.open(e.value,"_blank","noopener,noreferrer")}document.addEventListener("DOMContentLoaded",()=>{const e=document.getElementById("tgGroupSelect");e?.options.length&&(e.selectedIndex=Math.floor(Math.random()*e.options.length))});</script>			
         </section>
 
         <section id="edtfsb">
@@ -3703,7 +3733,7 @@
                         <a href="https://getsurfboard.com/zh-Hans/" class="open-btn" target="_blank">开始学习</a>
                     </div>
                 </div>				
-            </div>
+            </div>			
             <div class="group-card">
                 <div class="item-header"><span class="item-title">WARP / ONE</span><span class="tag tag-featured">EDT姐妹花</span></div>
                 <div class="action-area">
