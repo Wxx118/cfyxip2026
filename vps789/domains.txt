@@ -22,6 +22,7 @@ yg5.ygkkk.dpdns.org
 01-cctv.com
 play.mc.js.cool
 edgeone.gh-proxy.org
+cf.neko.cloudd.eu.org
 neko.cloudd.eu.org
 www.dbs.com.sg
 cf-cname.xingpingcn.top
@@ -56,7 +57,6 @@ eteaf.cf.3666888.xyz
 6.cf.3666888.xyz
 11.cf.3666888.xyz
 cdn.2158.cc
-yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 www.nexusmods.com
 www.xiaoshuofen.com
@@ -69,6 +69,7 @@ cf.xycf.asia
 cdn.fiatnorm.us.kg
 oo.xzhi.eu.org
 yapuyapu.com
+yg9.ygkkk.dpdns.org
 investor.apple.com
 www.speedtest.net
 www.fastsoso.cn
@@ -80,12 +81,13 @@ vip.cf.3666888.xyz
 123.cf.3666888.xyz
 5.cf.3666888.xyz
 9.cf.3666888.xyz
+cf-ip-node.vov.moe
 www.galgamex.net
 eii.at
 markmonitor.com
-visa.com.tw
 www.giannidelprete.it
 www.postman.com
+visa.com.tw
 cloudflare.182682.xyz
 cloudflare.cfgo.cc
 cf.godns.cc
@@ -94,7 +96,6 @@ redis.io
 hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
 8.cf.3666888.xyz
-cf-ip-node.vov.moe
 api.gzcrtw.com
 coke.cf.3666888.xyz
 neko.cloudflaree.eu.org
@@ -106,6 +107,7 @@ cf.727672.xyz
 cfip-cm.stoeaves.us.ci
 ct.721660.xyz
 www.whoer.net
+a.lma.de5.net
 www.mlkj888.com
 www.dg22.top
 cf.v8.longsays.com
@@ -113,7 +115,9 @@ ping.pe
 yxip.xxxxxxxx.tk
 cmcc.hw.090227.xyz
 hzytjy.cn
+ctlmt.info
 qy.cf.727672.xyz
+www.akasantech.com
 cfip-cu.stoeaves.us.ci
 1.cloudflare.19931110.xyz
 www.ox.ac.uk
@@ -130,8 +134,6 @@ cf.998866.top
 cnllm.com
 china-telecom.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com
-vps.cheng2001.top
-cf.neko.cloudd.eu.org
 www.shopify.com
 ct.877774.xyz
 da.mfa.gov.ua
@@ -141,6 +143,7 @@ adnjv.cf.3666888.xyz
 isp.254301.xyz
 doro.lol
 cdn.ddeed.de
+vps.cheng2001.top
 images.chesscomfiles.com
 visa.com
 www.visa.com.hk
@@ -159,9 +162,7 @@ saas.072159.xyz
 qocu.cf.3666888.xyz
 cfgo.timelate.com
 yx.oracle-img.eu.org
-cf.090227.xyz
 openai.com
-www.5199dy.com
 jobsdb.com
 yg6.ygkkk.dpdns.org
 www.6i5.com
@@ -170,7 +171,6 @@ yd.zhuqq.qzz.io
 cf.neko.cloudflaree.eu.org
 xn--b6gac.eu.org
 ct.090227.xyz
-cf3.996616.xyz
 dash.cloudflare.com
 bestcf.030101.xyz
 www.udacity.com
@@ -185,16 +185,16 @@ kickstarter.com
 mfa.gov.ua
 fn.130519.xyz
 fbi.gov
+www.5199dy.com
 www.hypixel.net
 cf.130519.xyz
 blog.raindew.576555.xyz
+tajikistan.mfa.gov.ua
 dynadot.com
+p.etime.vip
 cfyx.aliyun.20237737.xyz
 cfyx.dnspod.20237737.xyz
 www.wuduanyun.com
 spring.io
 www.jp.pima.gov
 www.dentoncounty.gov
-egov.uscis.gov
-guide.for.edu.sg
-constitution.congress.gov
