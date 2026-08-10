@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 08-10 07:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 08-10 08:12 | BestCF.pages.dev
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
@@ -83,12 +83,12 @@ cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
-cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 cf.727672.xyz:443#VPS789优选 | cf.727672.xyz
 hzytjy.cn:443#VPS789优选 | hzytjy.cn
 openai.com:443#VPS789优选 | openai.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
+cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 www.mlkj888.com:443#VPS789优选 | www.mlkj888.com
 cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
