@@ -6,6 +6,7 @@ cloudflare.468123.xyz
 7.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd
 saas.sin.fan
+fw8je9.cf.3666888.xyz
 10.cf.3666888.xyz
 www.mfyx.cn
 01-qq.com
@@ -20,6 +21,7 @@ cdn.555586.xyz
 yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
 cf-ip-node.vov.moe
+cnllm.com
 01-cctv.com
 play.mc.js.cool
 edgeone.gh-proxy.org
@@ -70,7 +72,6 @@ cf.xycf.asia
 cdn.fiatnorm.us.kg
 oo.xzhi.eu.org
 yapuyapu.com
-yg9.ygkkk.dpdns.org
 investor.apple.com
 www.speedtest.net
 www.fastsoso.cn
@@ -82,6 +83,7 @@ vip.cf.3666888.xyz
 123.cf.3666888.xyz
 5.cf.3666888.xyz
 9.cf.3666888.xyz
+yg9.ygkkk.dpdns.org
 www.galgamex.net
 eii.at
 markmonitor.com
@@ -90,6 +92,7 @@ www.giannidelprete.it
 yx.oracle-img.eu.org
 www.postman.com
 cloudflare.182682.xyz
+openai.com
 cloudflare.cfgo.cc
 cf.godns.cc
 cloudflare.idc.rocks
@@ -99,10 +102,12 @@ hfqek.cf.3666888.xyz
 8.cf.3666888.xyz
 api.gzcrtw.com
 coke.cf.3666888.xyz
+cf.neko.cloudflaree.eu.org
 neko.cloudflaree.eu.org
 cfip.1323123.xyz
 virtualcommtraining.verizon.com
 cu.877774.xyz
+www.5199dy.com
 e.lma.de5.net
 cf.727672.xyz
 cfip-cm.stoeaves.us.ci
@@ -125,16 +130,15 @@ www.ox.ac.uk
 www.ntu.edu.sg
 mogas.com
 youxuan.cf.3666888.xyz
-fw8je9.cf.3666888.xyz
 china-mobile.cname.cloudflare.468123.xyz
 chrono24.com
 yd.hhhhh.eu.org
 www.epicgames.com
 bestcfv4.030101.xyz
 cf.998866.top
-cnllm.com
 china-telecom.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com
+cf.itv888.cn
 www.shopify.com
 ct.877774.xyz
 da.mfa.gov.ua
@@ -162,13 +166,12 @@ cfdl.3666888.xyz
 saas.072159.xyz
 qocu.cf.3666888.xyz
 cfgo.timelate.com
-openai.com
 jobsdb.com
 yg6.ygkkk.dpdns.org
 www.6i5.com
+www.trumpinternationalrealty.com
 www.xflash.vip
 yd.zhuqq.qzz.io
-cf.neko.cloudflaree.eu.org
 xn--b6gac.eu.org
 ct.090227.xyz
 dash.cloudflare.com
@@ -185,7 +188,6 @@ kickstarter.com
 mfa.gov.ua
 fn.130519.xyz
 fbi.gov
-www.5199dy.com
 www.hypixel.net
 cf.130519.xyz
 blog.raindew.576555.xyz
@@ -196,5 +198,3 @@ cfyx.aliyun.20237737.xyz
 cfyx.dnspod.20237737.xyz
 www.wuduanyun.com
 spring.io
-www.jp.pima.gov
-www.dentoncounty.gov
