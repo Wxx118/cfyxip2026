@@ -19,6 +19,7 @@ cdn.555586.xyz
 4.cf.3666888.xyz
 yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
+cf-ip-node.vov.moe
 01-cctv.com
 play.mc.js.cool
 edgeone.gh-proxy.org
@@ -81,13 +82,13 @@ vip.cf.3666888.xyz
 123.cf.3666888.xyz
 5.cf.3666888.xyz
 9.cf.3666888.xyz
-cf-ip-node.vov.moe
 www.galgamex.net
 eii.at
 markmonitor.com
-www.giannidelprete.it
-www.postman.com
 visa.com.tw
+www.giannidelprete.it
+yx.oracle-img.eu.org
+www.postman.com
 cloudflare.182682.xyz
 cloudflare.cfgo.cc
 cf.godns.cc
@@ -110,8 +111,8 @@ www.whoer.net
 a.lma.de5.net
 www.mlkj888.com
 www.dg22.top
-cf.v8.longsays.com
 ping.pe
+cf.v8.longsays.com
 yxip.xxxxxxxx.tk
 cmcc.hw.090227.xyz
 hzytjy.cn
@@ -161,7 +162,6 @@ cfdl.3666888.xyz
 saas.072159.xyz
 qocu.cf.3666888.xyz
 cfgo.timelate.com
-yx.oracle-img.eu.org
 openai.com
 jobsdb.com
 yg6.ygkkk.dpdns.org
