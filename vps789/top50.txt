@@ -1,11 +1,10 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 08-12 00:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 08-12 00:42 | BestCF.pages.dev
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
-play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
-openai.com:443#VPS789优选 | openai.com
+cf.neko.cloudflaree.eu.org:443#VPS789优选 | cf.neko.cloudflaree.eu.org
+cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
-store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
@@ -29,14 +28,15 @@ www.xflash.vip:443#VPS789优选 | www.xflash.vip
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
-cf.neko.cloudflaree.eu.org:443#VPS789优选 | cf.neko.cloudflaree.eu.org
+play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
+coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
+oo.xzhi.eu.org:443#VPS789优选 | oo.xzhi.eu.org
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
-cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
+store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 nexusmods.com:443#VPS789优选 | nexusmods.com
 cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
-www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 pwjbl.me:443#VPS789优选 | pwjbl.me
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
