@@ -108,7 +108,7 @@ jobs:
             remark="$tag"
             
             # 如果 tag 中包含某些字符，本条记录不写入文件
-            if echo "$remark" | grep -q -E "官方优选|官方优选"; then 
+            if echo "$remark" | grep -q -E "官方优选|security|path"; then 
               echo "剔除节点: $tag"
               continue
             fi        
