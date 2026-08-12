@@ -106,6 +106,12 @@ jobs:
             raw_tag=$(echo "$line" | awk -F'#' '{print $2}')
             tag=$(python3 -c "import urllib.parse, sys; print(urllib.parse.unquote(sys.argv[1]))" "$raw_tag")
             
+            # 如果 tag 中包含某些字符，本条记录不写入文件
+            if [[ "$remark" == *"官方优选"* ]]; then 
+              echo "剔除节点: $tag"
+              continue
+            fi            
+            
             # --- 注意可能要替换和过滤的#后面的字符 ---
             remark="$tag"
             if [[ "$remark" =~ "韩国" || "$remark" =~ "KR" || "$remark" =~ "🇰🇷" ]]; then 
