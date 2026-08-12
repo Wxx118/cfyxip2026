@@ -1,8 +1,8 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 08-12 23:41 | BestCF.pages.dev
-cf.cf.3666888.xyz:8443#VPS789优选 | cf.cf.3666888.xyz
+162.159.198.1:8443#VPS789优选域名 TOP10 | 08-13 00:11 | BestCF.pages.dev
+cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
+yg2.ygkkk.dpdns.org:8443#VPS789优选 | yg2.ygkkk.dpdns.org
 ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 cfplus.255520.xyz:8443#VPS789优选 | cfplus.255520.xyz
-cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 saas.sin.fan:8443#VPS789优选 | saas.sin.fan
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
