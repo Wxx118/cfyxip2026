@@ -1,6 +1,7 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 08-12 08:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 08-12 08:42 | BestCF.pages.dev
 cf.neko.cloudflaree.eu.org:443#VPS789优选 | cf.neko.cloudflaree.eu.org
 www.shopify.com:443#VPS789优选 | www.shopify.com
+openai.com:443#VPS789优选 | openai.com
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
@@ -12,12 +13,14 @@ www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 www.dg22.top:443#VPS789优选 | www.dg22.top
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
+ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 dnew.cc:443#VPS789优选 | dnew.cc
+www.sage.com:443#VPS789优选 | www.sage.com
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
@@ -57,7 +60,6 @@ ping.ctrl.li:443#VPS789优选 | ping.ctrl.li
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
-ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 cloudflare.rainyfall.com:443#VPS789优选 | cloudflare.rainyfall.com
@@ -67,7 +69,6 @@ run.254301.xyz:443#VPS789优选 | run.254301.xyz
 yx.oracle-img.eu.org:443#VPS789优选 | yx.oracle-img.eu.org
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
-cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
@@ -81,6 +82,8 @@ a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 markmonitor.com:443#VPS789优选 | markmonitor.com
 doro.lol:443#VPS789优选 | doro.lol
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
+cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
+cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
@@ -96,7 +99,4 @@ cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 visa.com:443#VPS789优选 | visa.com
 cmcc.hw.090227.xyz:443#VPS789优选 | cmcc.hw.090227.xyz
 ctlmt.info:443#VPS789优选 | ctlmt.info
-china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
-cdn.wzkf88.com:443#VPS789优选 | cdn.wzkf88.com
-www.visa.com.hk:443#VPS789优选 | www.visa.com.hk
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
