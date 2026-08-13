@@ -1,6 +1,8 @@
 cf-cname.xingpingcn.top
 saas.sin.fan
+cdn.204910.best
 cmcc.vvvv.ee
+keji.cf.3666888.xyz
 sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz
 jp.cf.3666888.xyz
@@ -109,11 +111,9 @@ chrono24.com
 www.ntu.edu.sg
 aqua-aria.company
 yxip.xxxxxxxx.tk
-cdn.204910.best
-keji.cf.3666888.xyz
+f.lma.de5.net
 nrtcfdns.zone.id
 www.visa.com.hk
-f.lma.de5.net
 cfyx.qdqqd.com
 123.cf.3666888.xyz
 1.cf.3666888.xyz
@@ -131,15 +131,16 @@ www.epicgames.com
 bestcfv4.030101.xyz
 cf.godns.cc
 adnjv.cf.3666888.xyz
+cf-ip-node.vov.moe
 cmcc.hw.090227.xyz
 images.chesscomfiles.com
 cdn.ctn32.us.kg
 nrt.xxxxxxxx.nyc.mn
+ct.721660.xyz
 yd.zhuqq.qzz.io
 www.visa.com.sg
 yapuyapu.com
 networksolutions.com
-cf-ip-node.vov.moe
 www.xflash.vip
 prompt.gzcrtw.com
 cfip.1323123.xyz
@@ -148,6 +149,7 @@ visa.com
 stlouiscountymo.gov
 mskcc.org
 mogas.com
+cf.998866.top
 test.509666.xyz
 www.visa.cn
 virtualcommtraining.verizon.com
@@ -160,7 +162,6 @@ www.visa.com.tw
 cf.877771.xyz
 www.whoer.net
 www.postman.com
-cf.998866.top
 www.6i5.com
 imooo.de
 dns.163189.xyz
@@ -173,7 +174,6 @@ yg3.ygkkk.dpdns.org
 cf.553314.xyz
 cnamefuckxxs.yuchen.icu
 ping.pe
-www.visa.com
 www.mc.js.cool
 spirol.com
 www.sofi.com
@@ -183,6 +183,7 @@ mail.murata.com
 i.111666.best
 cfdl.3666888.xyz
 pubs.acs.org
+www.visa.com
 cmcc.877774.xyz
 cf.nyanya.moe
 www.mediafire.com
@@ -193,7 +194,6 @@ yg6.ygkkk.dpdns.org
 www.trump.com
 lt.zhuqq.qzz.io
 da.mfa.gov.ua
-help.x.com
 go1.dematic.com
 stonexbullion.com
 a.lma.de5.net
