@@ -8,6 +8,7 @@ jp.cf.3666888.xyz
 vip.cf.3666888.xyz
 cfyx.qdqqd.com
 1.cf.3666888.xyz
+4.cf.3666888.xyz
 10.cf.3666888.xyz
 www.mlkj888.com
 cdn.7zz.cn
@@ -27,7 +28,6 @@ avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
-4.cf.3666888.xyz
 7.cf.3666888.xyz
 test.509666.xyz
 yg1.ygkkk.dpdns.org
@@ -51,6 +51,7 @@ neko.cloudd.eu.org
 neko.cloudflaree.eu.org
 cloudflare-ip.mofashi.ltd
 gh-proxy.com
+cloudflare.idc.rocks
 dnew.cc
 www.leics.police.uk
 keji.cf.3666888.xyz
@@ -73,10 +74,11 @@ www.jimdo.com
 cloudflare.rainyfall.com
 eteaf.cf.3666888.xyz
 6.cf.3666888.xyz
-cloudflare.idc.rocks
 isp.254301.xyz
+kniu.cc
 doro.lol
 openai.com
+yxip.xxxxxxxx.tk
 sg.cf.3666888.xyz
 5.cf.3666888.xyz
 cdn.2158.cc
@@ -85,8 +87,8 @@ www.mfyx.cn
 cf.92555.xyz
 cf.v8.longsays.com
 yg5.ygkkk.dpdns.org
-kniu.cc
 coke.cf.3666888.xyz
+cloudflare.182682.xyz
 www.sage.com
 d.lma.de5.net
 a.lma.de5.net
@@ -100,7 +102,6 @@ cmcc.877774.xyz
 www.speedtest.net
 www.epicgames.com
 cloudflare.cfgo.cc
-cdn.cf.3666888.xyz
 uac.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 9.cf.3666888.xyz
@@ -127,6 +128,7 @@ cf.neko.cloudflaree.eu.org
 www.ox.ac.uk
 www.visa.com.sg
 networksolutions.com
+cdn.cf.3666888.xyz
 cf.998866.top
 101yaoye.com
 cmcc.hw.090227.xyz
@@ -140,6 +142,7 @@ ping.pe
 redis.io
 aqua-aria.company
 www.visa.com
+hzytjy.cn
 cfip-ct.stoeaves.us.ci
 www.postman.com
 www.visa.com.tw
@@ -151,14 +154,14 @@ www.galgamex.net
 images.chesscomfiles.com
 cfip.1323123.xyz
 visa.com
-yxip.xxxxxxxx.tk
+www.fastsoso.cn
 ddk.cfyx.20237737.xyz
 11.cf.3666888.xyz
 www.yutank.com
+imooo.de
 zero-trust-client.cloudflareclient.com
 tajikistan.mfa.gov.ua
 jobsdb.com
-imooo.de
 china-unicom.cname.cloudflare.468123.xyz
 www.trumpinternationalrealty.com
 fk.hshwk.org
@@ -167,8 +170,6 @@ i.111666.best
 zh-wireguard.com
 www.6i5.com
 appstorrent.ru
-cloudflare.182682.xyz
-www.fastsoso.cn
 da.mfa.gov.ua
 serviceshub.samsclub.com
 store.epicgames.com
@@ -178,7 +179,6 @@ cf.553314.xyz
 vps.cheng2001.top
 dns.163189.xyz
 www.trump.com
-digitalocean.com
 xn--b6gac.eu.org
 cf.877774.xyz
 mfa.gov.ua
@@ -188,13 +188,13 @@ cfdl.3666888.xyz
 isp.qzz.io
 224322.xyz
 cf.0sm.com
+digitalocean.com
 cdn.tzpro.xyz
+go1.dematic.com
 store.ubisoft.com
 www.ntu.edu.sg
 page.mercer.com
 yd.zhuqq.qzz.io
 envato.com
-saas.072159.xyz
 www.trumpgolf.com
 www.mediafire.com
-cf.877771.xyz
