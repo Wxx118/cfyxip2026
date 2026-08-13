@@ -29,6 +29,7 @@ cfplus.255520.xyz
 cdn.ddeed.de
 coke.cf.3666888.xyz
 yx.oracle-img.eu.org
+cloudflare.182682.xyz
 bbs.alipansou.com
 cloudflare.idc.rocks
 avido.cf.3666888.xyz
@@ -41,7 +42,6 @@ www.mlkj888.com
 cloudflare.468123.xyz
 api.gzcrtw.com
 1.cloudflare.19931110.xyz
-cloudflare.182682.xyz
 www.leics.police.uk
 cf.cf.3666888.xyz
 www.nexusmods.com
@@ -60,7 +60,6 @@ www.akasantech.com
 cfip-ct.stoeaves.us.ci
 cf.xycf.asia
 neko.cloudd.eu.org
-cdns.doon.eu.org
 cfsaas.080112.xyz
 gh-proxy.com
 sg.cf.3666888.xyz
@@ -73,6 +72,7 @@ cfip-cm.stoeaves.us.ci
 play.mc.js.cool
 cf.neko.cloudd.eu.org
 neko.cloudflaree.eu.org
+cdns.doon.eu.org
 cf.v8.longsays.com
 store.ubi.com
 staticdelivery.nexusmods.com
@@ -82,6 +82,7 @@ run.254301.xyz
 cnllm.com
 www.sloomb.com
 oo.xzhi.eu.org
+cdn.2020111.xyz
 cu.877774.xyz
 cloudflare.rainyfall.com
 yg5.ygkkk.dpdns.org
@@ -89,7 +90,6 @@ www.xiaoshuofen.com
 01-cctv.com
 edgeone.gh-proxy.org
 ex.warspite.dpdns.org
-cdn.2020111.xyz
 isp.254301.xyz
 www.bangbenjiaju.com
 01-qq.com
@@ -115,6 +115,7 @@ hzytjy.cn
 china-telecom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 yd.hhhhh.eu.org
+www.epicgames.com
 cmcc.090227.xyz
 cf.godns.cc
 redis.io
@@ -134,7 +135,6 @@ cmcc.hw.090227.xyz
 www.visa.com.sg
 bestcf.top
 visa.com
-www.visa.com.tw
 www.whoer.net
 networksolutions.com
 mogas.com
@@ -147,6 +147,7 @@ prompt.gzcrtw.com
 cfip.1323123.xyz
 virtualcommtraining.verizon.com
 ct.721660.xyz
+www.visa.com.tw
 stlouiscountymo.gov
 mskcc.org
 cf.duun.eu.cc
@@ -189,12 +190,11 @@ yg6.ygkkk.dpdns.org
 trump.com
 www.mediafire.com
 cfdl.3666888.xyz
-cf.0sm.com
 tajikistan.mfa.gov.ua
 email.lg.com
 go1.dematic.com
 shanghai.mfa.gov.ua
 digitalocean.com
-www.epicgames.com
 ct.877774.xyz
 serviceshub.samsclub.com
+help.x.com
