@@ -59,6 +59,7 @@ sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz
 isp.254301.xyz
 test.509666.xyz
+yg2.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
 www.nexusmods.com
 eii.at
@@ -96,12 +97,12 @@ prompt.gzcrtw.com
 chrono24.com
 neko.cloudd.eu.org
 neko.cloudflaree.eu.org
-mogas.com
 cfyx.qdqqd.com
 cf.1o.ee
 cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
 cdn.fiatnorm.us.kg
+mogas.com
 www.speedtest.net
 yg1.ygkkk.dpdns.org
 cnllm.com
@@ -137,8 +138,8 @@ china-telecom.cname.cloudflare.468123.xyz
 cfip-ct.stoeaves.us.ci
 cfip-cu.stoeaves.us.ci
 yd.zhuqq.qzz.io
-www.ox.ac.uk
 networksolutions.com
+www.ox.ac.uk
 yg9.ygkkk.dpdns.org
 cdn.ctn32.us.kg
 yapuyapu.com
@@ -153,7 +154,6 @@ www.postman.com
 appstorrent.ru
 www.visa.com.sg
 cf.998866.top
-yg2.ygkkk.dpdns.org
 run.254301.xyz
 www.6i5.com
 china-unicom.cname.cloudflare.468123.xyz
@@ -189,12 +189,12 @@ ct.877774.xyz
 www.5199dy.com
 spirol.com
 cfdl.3666888.xyz
-shanghai.mfa.gov.ua
 www.trumpinternationalrealty.com
 stonexbullion.com
 cf.877774.xyz
 email.lg.com
 page.mercer.com
-china.mfa.gov.ua
+shanghai.mfa.gov.ua
 cf.duun.eu.cc
 cf.nyanya.moe
+cf.itv888.cn
