@@ -88,7 +88,6 @@ cdn.2020111.xyz
 1.cf.3666888.xyz
 cdn.2158.cc
 run.254301.xyz
-ping.ctrl.li
 cf.v8.longsays.com
 yxip.xxxxxxxx.tk
 cfvip.cf.3666888.xyz
@@ -101,6 +100,9 @@ isp.254301.xyz
 5.cf.3666888.xyz
 6.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
+ping.ctrl.li
+markmonitor.com
+doro.lol
 ex.warspite.dpdns.org
 yx.oracle-img.eu.org
 www.epicgames.com
@@ -108,8 +110,6 @@ cmcc.877774.xyz
 cf.998866.top
 kniu.cc
 01-qq.com
-markmonitor.com
-doro.lol
 neko.cloudd.eu.org
 www.visa.com.hk
 nrtcfdns.zone.id
@@ -127,6 +127,7 @@ lt.1930812.xyz
 www.ntu.edu.sg
 nrt.xxxxxxxx.nyc.mn
 www.yutank.com
+visa.com
 cmcc.090227.xyz
 www.leics.police.uk
 cdn.555586.xyz
@@ -134,10 +135,8 @@ imooo.de
 china-mobile.cname.cloudflare.468123.xyz
 cfgo.timelate.com
 images.chesscomfiles.com
-visa.com
 redis.io
 mogas.com
-cloudflare.182682.xyz
 bestcfv4.030101.xyz
 www.5199dy.com
 yg9.ygkkk.dpdns.org
@@ -151,7 +150,6 @@ networksolutions.com
 cf.877771.xyz
 dynadot.com
 jobsdb.com
-f.lma.de5.net
 cf.xycf.asia
 www.visa.cn
 stlouiscountymo.gov
@@ -162,7 +160,8 @@ yg7.ygkkk.dpdns.org
 investor.apple.com
 mail.murata.com
 bestcf.top
-hzytjy.cn
+cloudflare.182682.xyz
+f.lma.de5.net
 www.6i5.com
 ctlmt.info
 shanghai.mfa.gov.ua
@@ -175,6 +174,7 @@ page.mercer.com
 ping.pe
 ct.877774.xyz
 www.ox.ac.uk
+hzytjy.cn
 cf.nyanya.moe
 cnamefuckxxs.yuchen.icu
 www.visa.com.sg
@@ -184,12 +184,11 @@ www.trumpgolf.com
 trump.com
 www.whoer.net
 ddk.cfyx.20237737.xyz
+www.sofi.com
 china-unicom.cname.cloudflare.468123.xyz
 cf.itv888.cn
 www.visa.com.tw
-encryptedsni.com
 envato.com
-cf.877774.xyz
 mfa.gov.ua
 da.mfa.gov.ua
 saas.072159.xyz
@@ -197,4 +196,5 @@ china-telecom.cname.cloudflare.468123.xyz
 cfip-cu.stoeaves.us.ci
 zero-trust-client.cloudflareclient.com
 go1.dematic.com
+encryptedsni.com
 spirol.com
