@@ -1,4 +1,5 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 08-16 22:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 08-16 23:11 | BestCF.pages.dev
+cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
@@ -14,7 +15,6 @@ avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 cf.1o.ee:443#VPS789优选 | cf.1o.ee
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
-ping.ctrl.li:443#VPS789优选 | ping.ctrl.li
 www.xflash.vip:443#VPS789优选 | www.xflash.vip
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
