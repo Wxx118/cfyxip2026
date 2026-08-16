@@ -1,9 +1,8 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 08-16 18:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 08-16 18:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
-uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
@@ -36,6 +35,7 @@ vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
+uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
