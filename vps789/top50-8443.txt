@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 08-20 08:16 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 08-20 08:41 | BestCF.pages.dev
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 www.fastsoso.cn:8443#VPS789优选 | www.fastsoso.cn
@@ -47,6 +47,6 @@ www.dg22.top:8443#VPS789优选 | www.dg22.top
 www.xflash.vip:8443#VPS789优选 | www.xflash.vip
 www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
 www.shopify.com:8443#VPS789优选 | www.shopify.com
+nrt.xxxxxxxx.nyc.mn:8443#VPS789优选 | nrt.xxxxxxxx.nyc.mn
 p.etime.vip:8443#VPS789优选 | p.etime.vip
-test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
