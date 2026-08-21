@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 08-21 09:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 08-21 10:10 | BestCF.pages.dev
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 www.fastsoso.cn:8443#VPS789优选 | www.fastsoso.cn
 bbs.alipansou.com:8443#VPS789优选 | bbs.alipansou.com
@@ -32,7 +32,6 @@ cloudflare.idc.rocks:8443#VPS789优选 | cloudflare.idc.rocks
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
 sg.cf.3666888.xyz:8443#VPS789优选 | sg.cf.3666888.xyz
 cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
-2.cf.3666888.xyz:8443#VPS789优选 | 2.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz:8443#VPS789优选 | 4.cf.3666888.xyz
 5.cf.3666888.xyz:8443#VPS789优选 | 5.cf.3666888.xyz
@@ -40,6 +39,8 @@ cf-ip-node.vov.moe:8443#VPS789优选 | cf-ip-node.vov.moe
 eii.at:8443#VPS789优选 | eii.at
 api.gzcrtw.com:8443#VPS789优选 | api.gzcrtw.com
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
+cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
+openai.com:8443#VPS789优选 | openai.com
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cloudflare.rainyfall.com:8443#VPS789优选 | cloudflare.rainyfall.com
 adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
@@ -47,6 +48,5 @@ hfqek.cf.3666888.xyz:8443#VPS789优选 | hfqek.cf.3666888.xyz
 7.cf.3666888.xyz:8443#VPS789优选 | 7.cf.3666888.xyz
 10.cf.3666888.xyz:8443#VPS789优选 | 10.cf.3666888.xyz
 cdn.wzkf88.com:8443#VPS789优选 | cdn.wzkf88.com
-cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
-openai.com:8443#VPS789优选 | openai.com
+hk.cf.3666888.xyz:8443#VPS789优选 | hk.cf.3666888.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
