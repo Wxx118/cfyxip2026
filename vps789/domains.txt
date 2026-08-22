@@ -117,7 +117,6 @@ cdns.doon.eu.org
 zabc.net
 b3.cfyx.20237737.xyz
 nexusmods.com
-redis.io
 securecircle.com
 uspto.gov
 ct.721660.xyz
@@ -130,6 +129,7 @@ www.meteorelectrical.com
 time.is
 cu.877774.xyz
 www.speedtest.net
+redis.io
 debot.ai
 www.mastervolt.com
 cloudflare.tv
@@ -140,7 +140,6 @@ www.petronaftco.com
 www.timbuktutravel.com
 www.revechat.com
 9.cf.3666888.xyz
-chinwa.cf.090227.xyz
 cfgo.timelate.com
 cdn.2x.nz
 www.dg22.top
@@ -158,7 +157,7 @@ www.botafogo.com.br
 cdnjs.cloudflare.com
 china-mobile.cname.cloudflare.468123.xyz
 1749991941.bilibiliapp.cn
-yx.cf.090227.xyz
+chinwa.cf.090227.xyz
 yd.zhuqq.qzz.io
 funko.com
 cdn.fiatnorm.us.kg
@@ -166,6 +165,7 @@ neko.cloudd.eu.org
 s.ee
 images.chesscomfiles.com
 cdnjs.loli.net
+lt.1930812.xyz
 cf.cloudflare.182682.xyz
 www.ntu.edu.sg
 nrt.xxxxxxxx.nyc.mn
@@ -194,7 +194,7 @@ challenges.cloudflare.com
 7.cf.3666888.xyz
 yg11.ygkkk.dpdns.org
 www.bangbenjiaju.com
+yx.cf.090227.xyz
 cf.92555.xyz
 4gxb7l7p40.cloudflare-gateway.com
 worldvectorlogo.com
-cloudflare.net
