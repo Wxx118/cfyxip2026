@@ -22,7 +22,6 @@ linear.app
 spring.io
 m.iyf.tv
 youxuan.cf.3666888.xyz
-sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz
 jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz
@@ -40,9 +39,11 @@ dongbanghong.com
 api.gzcrtw.com
 neko.cloudflaree.eu.org
 oo.xzhi.eu.org
+cdn.wzkf88.com
 cf.090227.xyz
 cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top
+openai.com
 fn.130519.xyz
 cf.3666888.xyz
 bbs.alipansou.com
@@ -55,6 +56,7 @@ www.jimdo.com
 www.vmware.com
 pwjbl.me
 keji.cf.3666888.xyz
+sanwang.cf.3666888.xyz
 vip.cf.3666888.xyz
 cf.cf.3666888.xyz
 cloudflare.rainyfall.com
@@ -84,9 +86,7 @@ cdn.fiatnorm.us.kg
 cf.neko.cloudd.eu.org
 cf.neko.cloudflaree.eu.org
 neko.cloudd.eu.org
-cdn.wzkf88.com
 www.shopify.com
-openai.com
 store.ubi.com
 p.etime.vip
 nexusmods.com
@@ -137,6 +137,7 @@ virtualcommtraining.verizon.com
 bestcf.top
 cloudflare.net
 ip.skk.moe
+cmcc.vvvv.ee
 guide.for.edu.sg
 www.sage.com
 packtpub.com
@@ -160,7 +161,6 @@ w3.org
 yg9.ygkkk.dpdns.org
 visa.com.tw
 bestcf.030101.xyz
-cmcc.vvvv.ee
 cdn.555586.xyz
 china-mobile.cname.cloudflare.468123.xyz
 www.gov.il
@@ -173,6 +173,7 @@ www.elysee.fr
 cf1.v8.longsays.com
 lose.edu.eu.org
 dogechain.info
+yxip.xxxxxxxx.tk
 cmcc.877774.xyz
 dynadot.com
 thebeat.gehealthcare.com
@@ -197,4 +198,3 @@ dash.cloudflare.com
 v.recipes
 www.epicgames.com
 zabc.net
-yxip.xxxxxxxx.tk
