@@ -125,6 +125,7 @@ china-telecom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 ct.721660.xyz
 cf.553314.xyz
+1.cloudflare.19931110.xyz
 cf.neko.cloudd.eu.org
 cdn.wzkf88.com
 www.ntu.edu.sg
@@ -135,10 +136,8 @@ isp.254301.xyz
 www.bangbenjiaju.com
 hzytjy.cn
 cloudflare.468123.xyz
-cfgo.timelate.com
 markmonitor.com
 cfip-cu.stoeaves.us.ci
-1.cloudflare.19931110.xyz
 cdn.fiatnorm.us.kg
 www.ox.ac.uk
 cloudflare.tv
@@ -147,11 +146,13 @@ dash.cloudflare.com
 www.5199dy.com
 yg8.ygkkk.dpdns.org
 chinwa.cf.090227.xyz
+cfgo.timelate.com
 chrono24.com
 yx.oracle-img.eu.org
 oo.xzhi.eu.org
 debot.ai
 packtpub.com
+cf1.v8.longsays.com
 bestcf.030101.xyz
 666.cf.cname.vvhan.com
 cmcc.vvvv.ee
@@ -161,7 +162,6 @@ page.mercer.com
 themeisle.com
 mogas.com
 111.cf.cname.vvhan.com
-cf1.v8.longsays.com
 www.epicgames.com
 zabc.net
 virtualcommtraining.verizon.com
@@ -177,6 +177,7 @@ bestcfv4.030101.xyz
 www.hypixel.net
 dynadot.com
 redis.io
+youxuan.cf.090227.xyz
 cdnjs.cloudflare.com
 cfyx.qdqqd.com
 cf.998866.top
@@ -190,7 +191,6 @@ ChinaTelecom.youxuan.zmxf.cc.cd
 images.chesscomfiles.com
 www.visa.com.hk
 qoj.ac
-www.scayle.com
 webn.cc
 www.government.is
 dogechain.info
