@@ -1,8 +1,8 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 08-25 22:41 | BestCF.pages.dev
-cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
+162.159.198.1:8443#VPS789优选域名 TOP10 | 08-25 23:13 | BestCF.pages.dev
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 openai.com:8443#VPS789优选 | openai.com
 cdn.204910.best:8443#VPS789优选 | cdn.204910.best
+store.ubi.com:8443#VPS789优选 | store.ubi.com
 bbs.alipansou.com:8443#VPS789优选 | bbs.alipansou.com
 spring.io:8443#VPS789优选 | spring.io
 guide.for.edu.sg:8443#VPS789优选 | guide.for.edu.sg
