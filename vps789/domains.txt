@@ -119,6 +119,7 @@ thebeat.gehealthcare.com
 cfip-cu.stoeaves.us.ci
 cdn.fiatnorm.us.kg
 www.deepl.com
+youxuan.cf.090227.xyz
 yg8.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
 cf.duun.eu.cc
@@ -149,7 +150,6 @@ openai.com
 www.hypixel.net
 cloudflare.idc.rocks
 www.jimdo.com
-youxuan.cf.090227.xyz
 keji.cf.3666888.xyz
 hk.cf.3666888.xyz
 cloudflare.rainyfall.com
@@ -179,6 +179,7 @@ www.applevis.com
 pwjbl.me
 eteaf.cf.3666888.xyz
 test.509666.xyz
+china.mfa.gov.ua
 www.4429.com.cn
 investor.apple.com
 www.gov.il
@@ -188,6 +189,7 @@ dongbanghong.com
 www.xflash.vip
 images.chesscomfiles.com
 hlevakha.gov.ua
+zh-wireguard.com
 grass.io
 nodejs.org
 pages.cloudflare.com
@@ -196,5 +198,3 @@ login.rockwellautomation.com
 page.mercer.com
 mvnrepository.com
 cdnjs.cloudflare.com
-china.mfa.gov.ua
-idc.urkeji.com
