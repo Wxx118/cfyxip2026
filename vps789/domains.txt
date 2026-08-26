@@ -1,6 +1,7 @@
 saas.sin.fan
 dongbanghong.com
 www.dbs.com.sg
+cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org
 www.shopify.com
 cu.877774.xyz
@@ -43,7 +44,6 @@ cdn.ddeed.de
 cfip-ct.stoeaves.us.ci
 edgeone.gh-proxy.org
 neko.cloudd.eu.org
-cloudflare-ip.mofashi.ltd
 openai.com
 b3.cfyx.20237737.xyz
 cfsaas.080112.xyz
@@ -156,6 +156,7 @@ cmcc.hw.090227.xyz
 www.6i5.com
 01-cctv.com
 cf.duun.eu.cc
+yx.cf.090227.xyz
 cfip-cu.stoeaves.us.ci
 img.856518.xyz
 garuda-indonesia.com
@@ -165,9 +166,7 @@ bestcf.top
 bestcfv4.030101.xyz
 zoominfo.com
 yg13.ygkkk.dpdns.org
-yx.cf.090227.xyz
 grass.io
-www.oopt.eu.cc
 chrono24.com
 s.ee
 images.chesscomfiles.com
@@ -175,6 +174,7 @@ ping.pe
 v.recipes
 zabc.net
 japan.com
+vayyar.com
 zh-wireguard.com
 eteaf.cf.3666888.xyz
 101yaoye.com
@@ -187,7 +187,6 @@ cmcc.877774.xyz
 fbi.gov
 cmcc.vvvv.ee
 redis.io
-vayyar.com
 envato.com
 unpkg.com
 networksolutions.com
@@ -195,6 +194,7 @@ www.doiting.com
 youxuan.cf.636949.xyz
 wppaunz.com
 www.4429.com.cn
+cf1.v8.longsays.com
 www.trump.com
 linkvertise.com
-131.youxuan.cf.090227.xyz
+www.oopt.eu.cc
