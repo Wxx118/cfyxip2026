@@ -121,12 +121,13 @@ cfip-cu.stoeaves.us.ci
 www.dentoncounty.gov
 cdn.fiatnorm.us.kg
 www.deepl.com
+youxuan.cf.636949.xyz
 yg8.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
 cf.duun.eu.cc
 cf.neko.cloudflaree.eu.org
-www.visa.com.hk
 www.epicgames.com
+www.visa.com.hk
 cf.877771.xyz
 cmcc.877774.xyz
 dynadot.com
@@ -134,7 +135,6 @@ tinyurl.com
 themeisle.com
 www.5h.com
 cf1s.cf.3666888.xyz
-youxuan.cf.636949.xyz
 fw8je9.cf.3666888.xyz
 10.cf.3666888.xyz
 www.6i5.com
@@ -144,7 +144,6 @@ yd.hhhhh.eu.org
 cf.xycf.asia
 ChinaTelecom.youxuan.zmxf.cc.cd
 cf.neko.cloudd.eu.org
-zj.7star.eu.cc
 networksolutions.com
 bestcf.top
 dash.cloudflare.com
@@ -168,6 +167,7 @@ cmcc.hw.090227.xyz
 hzytjy.cn
 chrono24.com
 lt.1930812.xyz
+zj.7star.eu.cc
 cnamefuckxxs.yuchen.icu
 gitlab.com
 zh-wireguard.com
@@ -176,7 +176,6 @@ yxip.xxxxxxxx.tk
 bestcfv4.030101.xyz
 www.hypixel.net
 egov.uscis.gov
-serviceshub.samsclub.com
 kwiat.com
 www.elysee.fr
 www.applevis.com
@@ -184,6 +183,7 @@ pwjbl.me
 eteaf.cf.3666888.xyz
 china.mfa.gov.ua
 www.4429.com.cn
+idc.urkeji.com
 ct.hw.090227.xyz
 investor.apple.com
 www.gov.il
@@ -197,4 +197,4 @@ nodejs.org
 pages.cloudflare.com
 tajikistan.mfa.gov.ua
 versantstore.pearson.com
-login.rockwellautomation.com
+serviceshub.samsclub.com
