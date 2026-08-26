@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 08-26 10:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 08-26 11:11 | BestCF.pages.dev
 cdn.204910.best:8443#VPS789优选 | cdn.204910.best
 cdn.cf.3666888.xyz:8443#VPS789优选 | cdn.cf.3666888.xyz
 cf1s.cf.3666888.xyz:8443#VPS789优选 | cf1s.cf.3666888.xyz
@@ -37,6 +37,7 @@ fk.hshwk.org:8443#VPS789优选 | fk.hshwk.org
 api.gzcrtw.com:8443#VPS789优选 | api.gzcrtw.com
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
+edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 ex.warspite.dpdns.org:8443#VPS789优选 | ex.warspite.dpdns.org
 img.856518.xyz:8443#VPS789优选 | img.856518.xyz
 www.090902.xyz:8443#VPS789优选 | www.090902.xyz
@@ -75,12 +76,10 @@ www.akasantech.com:8443#VPS789优选 | www.akasantech.com
 cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
-edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 yx.oracle-img.eu.org:8443#VPS789优选 | yx.oracle-img.eu.org
 oo.xzhi.eu.org:8443#VPS789优选 | oo.xzhi.eu.org
 www.dbs.com.sg:8443#VPS789优选 | www.dbs.com.sg
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
-fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
 b3.cfyx.20237737.xyz:8443#VPS789优选 | b3.cfyx.20237737.xyz
 www.fastsoso.cn:8443#VPS789优选 | www.fastsoso.cn
 cfyx.aliyun.20237737.xyz:8443#VPS789优选 | cfyx.aliyun.20237737.xyz
@@ -98,5 +97,6 @@ www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
 w3.org:8443#VPS789优选 | w3.org
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
+fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
