@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 08-27 06:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 08-27 06:42 | BestCF.pages.dev
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 www.dbs.com.sg:443#VPS789优选 | www.dbs.com.sg
@@ -17,6 +17,7 @@ www.sage.com:443#VPS789优选 | www.sage.com
 www.crazygames.fr:443#VPS789优选 | www.crazygames.fr
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
+youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
@@ -42,7 +43,6 @@ www.dg22.top:443#VPS789优选 | www.dg22.top
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
-cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 neko.cloudd.eu.org:443#VPS789优选 | neko.cloudd.eu.org
 openai.com:443#VPS789优选 | openai.com
