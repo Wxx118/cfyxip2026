@@ -16,7 +16,6 @@ cf-cname.xingpingcn.top
 cdn.204910.best
 www.5199dy.com
 store.ubi.com
-cfyx.aliyun.20237737.xyz
 cloudflare.idc.rocks
 dnew.cc
 cf.cf.3666888.xyz
@@ -37,7 +36,7 @@ www.akasantech.com
 api.gzcrtw.com
 cdn.ddeed.de
 coke.cf.3666888.xyz
-neko.cloudd.eu.org
+cf.blogluo.eu.org
 cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org
 www.shopify.com
@@ -45,6 +44,7 @@ cf.130519.xyz
 linear.app
 cf.3666888.xyz
 bbs.alipansou.com
+cfyx.aliyun.20237737.xyz
 www.mc.js.cool
 www.sage.com
 www.vmware.com
@@ -59,9 +59,9 @@ fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz
 11.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
-cf.468123.xyz
 www.sloomb.com
 yx.oracle-img.eu.org
+neko.cloudd.eu.org
 oo.xzhi.eu.org
 fn.130519.xyz
 cu.877774.xyz
@@ -78,13 +78,13 @@ www.nexusmods.com
 www.galgamex.net
 cmcc.cc.cd
 uspto.gov
+cf.468123.xyz
 cloudflare.468123.xyz
 markmonitor.com
 www.carousell.sg
 www.blibli.com
 www.xflash.vip
 www.vastnovel.com
-cf.blogluo.eu.org
 www.ntu.edu.sg
 cdn.2020111.xyz
 cf.v8.longsays.com
@@ -92,7 +92,6 @@ openai.com
 saas.sin.fan
 staticdelivery.nexusmods.com
 gh-proxy.com
-spring.io
 www.jimdo.com
 www.crazygames.fr
 cloudflare.rainyfall.com
@@ -103,11 +102,11 @@ fk.hshwk.org
 cfip-ct.stoeaves.us.ci
 edgeone.gh-proxy.org
 cf.neko.cloudflaree.eu.org
-cloudflare.19931110.xyz
 www.broadcom.com
 www.gov.il
 www.udacity.com
 cloudflare.cfgo.cc
+spring.io
 avido.cf.3666888.xyz
 ctsg.cfyx.aliyun.20237737.xyz
 prompt.gzcrtw.com
@@ -117,6 +116,7 @@ www.deepl.com
 cdn.wzkf88.com
 www.090902.xyz
 cf.xreak.top
+cloudflare.19931110.xyz
 www.ox.ac.uk
 w3.org
 ip.skk.moe
@@ -153,7 +153,6 @@ digitalocean.com
 redis.io
 yg9.ygkkk.dpdns.org
 investor.apple.com
-registry.npmjs.org
 shen6011.pages.dev
 bestcfv4.030101.xyz
 dynadot.com
@@ -167,13 +166,13 @@ china-mobile.cname.cloudflare.468123.xyz
 cfplus.255520.xyz
 yx.cf.090227.xyz
 prizepicks.com
+registry.npmjs.org
 cloudflare.com
 lt.1930812.xyz
 thebeat.gehealthcare.com
 go1.dematic.com
 kwiat.com
 dango.co
-kniu.cc
 trump.com
 cf.qq.ms
 crypto.cloudflare.com
@@ -198,3 +197,4 @@ kali.download
 cf.cloudflare.182682.xyz
 zj.7star.eu.cc
 cnamefuckxxs.yuchen.icu
+www.postman.com
