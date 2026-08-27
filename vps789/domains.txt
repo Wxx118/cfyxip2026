@@ -125,6 +125,7 @@ b3.cfyx.20237737.xyz
 fbi.gov
 www.fastsoso.cn
 yg8.ygkkk.dpdns.org
+cdn.2x.nz
 cf.553314.xyz
 cfip-cm.stoeaves.us.ci
 131.youxuan.cf.090227.xyz
@@ -148,10 +149,10 @@ challenges.cloudflare.com
 funko.com
 bestcf.030101.xyz
 www.dentoncounty.gov
-cdn.2x.nz
 cf.92555.xyz
 digitalocean.com
 redis.io
+www.redboxtools.com
 yg9.ygkkk.dpdns.org
 investor.apple.com
 shen6011.pages.dev
@@ -159,7 +160,6 @@ singapore.com
 bestcfv4.030101.xyz
 dynadot.com
 youxuan.cf.090227.xyz
-www.redboxtools.com
 www.revechat.com
 111.cf.cname.vvhan.com
 cmcc.hw.090227.xyz
@@ -168,6 +168,7 @@ china-mobile.cname.cloudflare.468123.xyz
 cfplus.255520.xyz
 yx.cf.090227.xyz
 prizepicks.com
+cf.qq.ms
 1.cloudflare.19931110.xyz
 registry.npmjs.org
 cloudflare.com
@@ -177,7 +178,6 @@ go1.dematic.com
 kwiat.com
 dango.co
 trump.com
-cf.qq.ms
 crypto.cloudflare.com
 alternativeto.net
 bestcf.top
