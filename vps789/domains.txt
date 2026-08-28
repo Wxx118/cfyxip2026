@@ -13,7 +13,6 @@ cdn.7zz.cn
 cdn.091224.xyz
 cf.blogluo.eu.org
 cf-cname.xingpingcn.top
-cdn.204910.best
 www.5199dy.com
 store.ubi.com
 cloudflare.idc.rocks
@@ -28,17 +27,16 @@ eteaf.cf.3666888.xyz
 test.509666.xyz
 eii.at
 securecircle.com
-www.xiaoshuofen.com
 www.mfyx.cn
 www.bangbenjiaju.com
 china-telecom.cname.cloudflare.468123.xyz
 www.dg22.top
 www.akasantech.com
-api.gzcrtw.com
 coke.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org
 www.shopify.com
+cdn.204910.best
 cf.130519.xyz
 linear.app
 cf.3666888.xyz
@@ -56,8 +54,10 @@ fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz
 11.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
+www.xiaoshuofen.com
 www.blibli.com
 www.sloomb.com
+api.gzcrtw.com
 cdn.ddeed.de
 yx.oracle-img.eu.org
 neko.cloudd.eu.org
@@ -87,7 +87,6 @@ cdn.2x.nz
 www.xflash.vip
 www.vastnovel.com
 www.ntu.edu.sg
-cdn.2020111.xyz
 cf.v8.longsays.com
 openai.com
 cf.877771.xyz
@@ -105,6 +104,7 @@ fk.hshwk.org
 cfip-ct.stoeaves.us.ci
 edgeone.gh-proxy.org
 cf.neko.cloudflaree.eu.org
+cdn.2020111.xyz
 www.broadcom.com
 www.gov.il
 www.udacity.com
@@ -132,12 +132,12 @@ cdn.fiatnorm.us.kg
 neko.cloudflaree.eu.org
 www.mastervolt.com
 greim.no
+01-cctv.com
 ct.721660.xyz
 ip.skk.moe
 www.dentoncounty.gov
 pwjbl.me
 yg4.ygkkk.dpdns.org
-01-cctv.com
 www.giannidelprete.it
 cfip-cu.stoeaves.us.ci
 cf.neko.cloudd.eu.org
@@ -167,6 +167,7 @@ prizepicks.com
 131.youxuan.cf.090227.xyz
 registry.npmjs.org
 cloudflare.com
+cf.cloudflare.182682.xyz
 cloudflare.cfgo.cc
 thebeat.gehealthcare.com
 go1.dematic.com
@@ -175,12 +176,10 @@ w3.org
 trump.com
 crypto.cloudflare.com
 alternativeto.net
-cf.cloudflare.182682.xyz
 bestcf.top
 dash.cloudflare.com
 666.cf.cname.vvhan.com
 dynadot.com
-login.rockwellautomation.com
 networksolutions.com
 uptimerobot.com
 builtbybuffalo.com
@@ -198,3 +197,4 @@ cf.vvhan.com
 kali.download
 zj.7star.eu.cc
 cnamefuckxxs.yuchen.icu
+cloudflare.182682.xyz
