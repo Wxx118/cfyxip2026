@@ -34,7 +34,6 @@ cdn.555586.xyz
 10.cf.3666888.xyz
 cdn.7zz.cn
 cdn.091224.xyz
-cdn.2x.nz
 neko.cloudd.eu.org
 www.ntu.edu.sg
 cdns.doon.eu.org
@@ -58,7 +57,6 @@ eteaf.cf.3666888.xyz
 7.cf.3666888.xyz
 8.cf.3666888.xyz
 11.cf.3666888.xyz
-test.509666.xyz
 yg1.ygkkk.dpdns.org
 yg4.ygkkk.dpdns.org
 www.galgamex.net
@@ -69,6 +67,7 @@ china-telecom.cname.cloudflare.468123.xyz
 cf.468123.xyz
 markmonitor.com
 www.carousell.sg
+cdn.2x.nz
 prizepicks.com
 cfip-ct.stoeaves.us.ci
 play.mc.js.cool
@@ -93,6 +92,7 @@ jp.cf.3666888.xyz
 123.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 6.cf.3666888.xyz
+test.509666.xyz
 yg2.ygkkk.dpdns.org
 www.nexusmods.com
 cmcc.cc.cd
@@ -111,9 +111,9 @@ coke.cf.3666888.xyz
 funko.com
 cf.blogluo.eu.org
 cf.xreak.top
-cf.877771.xyz
 gh-proxy.com
 guide.for.edu.sg
+w3.org
 fw8je9.cf.3666888.xyz
 1.cf.3666888.xyz
 4.cf.3666888.xyz
@@ -123,11 +123,10 @@ www.sloomb.com
 cfip-cm.stoeaves.us.ci
 cloudflare.com
 digitalocean.com
-cmcc.vvvv.ee
+cf.877771.xyz
 isp.254301.xyz
 run.254301.xyz
 ikankeji.com
-cloudflare.468123.xyz
 01-qq.com
 www.gov.il
 ct.721660.xyz
@@ -135,16 +134,16 @@ ChinaTelecom.youxuan.zmxf.cc.cd
 bestcf.top
 cf.v8.longsays.com
 yxip.xxxxxxxx.tk
+cmcc.vvvv.ee
+dynadot.com
 absen.com
 qocu.cf.3666888.xyz
 www.6i5.com
-1749991941.bilibiliapp.cn
+cloudflare.468123.xyz
 cf.duun.eu.cc
 i.pages.dev
-dynadot.com
 crypto.cloudflare.com
 bitsight.com
-w3.org
 pwjbl.me
 chrono24.com
 cnamefuckxxs.yuchen.icu
@@ -164,7 +163,6 @@ www.bis.gov
 www.redboxtools.com
 01-cctv.com
 images.chesscomfiles.com
-lt.1930812.xyz
 www.spacex.com
 time.is
 www.visa.com.hk
@@ -172,10 +170,10 @@ www.postman.com
 aftership.com
 9mod.com
 store.epicgames.com
-resources.biginterview.com
 abuse.cloudflare.com
 www.mediafire.com
 bestcf.030101.xyz
+www.epicgames.com
 api.uniapi.io
 cmcc.877774.xyz
 singapore.com
@@ -185,6 +183,7 @@ hubspot.com
 tinyurl.com
 sellerlogic.com
 www.ventusky.com
+resources.biginterview.com
 www.dwk.com
 www.petronaftco.com
 cdnjs.cloudflare.com
@@ -194,7 +193,8 @@ cmcc.hw.090227.xyz
 www.apnic.net
 china-mobile.cname.cloudflare.468123.xyz
 webn.cc
+1749991941.bilibiliapp.cn
 zen-browser.app
-www.trumpinternationalrealty.com
 cf.553314.xyz
 cf.vvhan.com
+alternativeto.net

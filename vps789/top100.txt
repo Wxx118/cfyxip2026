@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 08-29 07:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 08-29 07:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 cf.neko.cloudflaree.eu.org:443#VPS789优选 | cf.neko.cloudflaree.eu.org
@@ -35,7 +35,6 @@ cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 cdn.7zz.cn:443#VPS789优选 | cdn.7zz.cn
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
-cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 neko.cloudd.eu.org:443#VPS789优选 | neko.cloudd.eu.org
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
@@ -59,7 +58,6 @@ eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
-test.509666.xyz:443#VPS789优选 | test.509666.xyz
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 yg4.ygkkk.dpdns.org:443#VPS789优选 | yg4.ygkkk.dpdns.org
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
@@ -70,6 +68,7 @@ china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname
 cf.468123.xyz:443#VPS789优选 | cf.468123.xyz
 markmonitor.com:443#VPS789优选 | markmonitor.com
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
+cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 prizepicks.com:443#VPS789优选 | prizepicks.com
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
@@ -94,6 +93,7 @@ jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
+test.509666.xyz:443#VPS789优选 | test.509666.xyz
 yg2.ygkkk.dpdns.org:443#VPS789优选 | yg2.ygkkk.dpdns.org
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
