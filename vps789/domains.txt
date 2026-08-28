@@ -150,7 +150,6 @@ ct.090227.xyz
 bestcf.030101.xyz
 investor.apple.com
 cf.92555.xyz
-131.youxuan.cf.090227.xyz
 lt.1930812.xyz
 digitalocean.com
 redis.io
@@ -164,12 +163,10 @@ www.revechat.com
 111.cf.cname.vvhan.com
 cmcc.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
-cfplus.255520.xyz
-yx.cf.090227.xyz
 prizepicks.com
+131.youxuan.cf.090227.xyz
 registry.npmjs.org
 cloudflare.com
-cf.cloudflare.182682.xyz
 cloudflare.cfgo.cc
 thebeat.gehealthcare.com
 go1.dematic.com
@@ -178,6 +175,7 @@ w3.org
 trump.com
 crypto.cloudflare.com
 alternativeto.net
+cf.cloudflare.182682.xyz
 bestcf.top
 dash.cloudflare.com
 666.cf.cname.vvhan.com
@@ -194,7 +192,9 @@ www.sofi.com
 www.mlkj888.com
 hzytjy.cn
 newsroom.avalara.com
+yx.cf.090227.xyz
 chrono24.com
 cf.vvhan.com
 kali.download
 zj.7star.eu.cc
+cnamefuckxxs.yuchen.icu
