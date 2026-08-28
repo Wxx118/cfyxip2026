@@ -124,7 +124,6 @@ www.sloomb.com
 cfip-cm.stoeaves.us.ci
 cloudflare.com
 digitalocean.com
-yxip.xxxxxxxx.tk
 cmcc.vvvv.ee
 isp.254301.xyz
 run.254301.xyz
@@ -135,6 +134,7 @@ ct.721660.xyz
 ChinaTelecom.youxuan.zmxf.cc.cd
 bestcf.top
 cf.v8.longsays.com
+yxip.xxxxxxxx.tk
 dynadot.com
 absen.com
 qocu.cf.3666888.xyz
@@ -144,15 +144,14 @@ crypto.cloudflare.com
 bitsight.com
 pwjbl.me
 www.6i5.com
-cf1.v8.longsays.com
 chrono24.com
-ex.warspite.dpdns.org
 cnamefuckxxs.yuchen.icu
 pages.cloudflare.com
 v.recipes
 kwiat.com
 www.redboxtools.com
 challenges.cloudflare.com
+cf1.v8.longsays.com
 cdnjs.loli.net
 dash.cloudflare.com
 redis.io
@@ -198,3 +197,4 @@ cmcc.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
 webn.cc
 zen-browser.app
+www.trumpinternationalrealty.com
