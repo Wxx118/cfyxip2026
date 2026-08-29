@@ -79,7 +79,6 @@ hfqek.cf.3666888.xyz
 11.cf.3666888.xyz
 www.nexusmods.com
 www.galgamex.net
-china-telecom.cname.cloudflare.468123.xyz
 cdn.091224.xyz
 ctsg.cfyx.aliyun.20237737.xyz
 www.xflash.vip
@@ -98,6 +97,7 @@ adnjv.cf.3666888.xyz
 7.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
 uspto.gov
+china-telecom.cname.cloudflare.468123.xyz
 cf.468123.xyz
 www.carousell.sg
 cfip-cm.stoeaves.us.ci
@@ -131,6 +131,7 @@ ikankeji.com
 ct.721660.xyz
 www.oopt.eu.cc
 www.akasantech.com
+cdn.fiatnorm.us.kg
 alternativeto.net
 cf.xreak.top
 cnamefuckxxs.yuchen.icu
@@ -190,7 +191,6 @@ cdn.2x.nz
 visa.com.tw
 cfip-cu.stoeaves.us.ci
 cf.xycf.asia
-cdn.fiatnorm.us.kg
 kali.download
 www.visa.com.hk
 japan.com
