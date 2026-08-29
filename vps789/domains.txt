@@ -138,7 +138,6 @@ api.uniapi.io
 www.whoer.net
 bitsight.com
 packtpub.com
-dexari.com
 www.yutank.com
 pubs.acs.org
 crypto.cloudflare.com
@@ -191,6 +190,7 @@ cdn.2x.nz
 visa.com.tw
 cfip-cu.stoeaves.us.ci
 cf.xycf.asia
+cdn.fiatnorm.us.kg
 kali.download
 www.visa.com.hk
 japan.com
