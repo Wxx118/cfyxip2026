@@ -114,8 +114,10 @@ bestcf.top
 cdns.doon.eu.org
 cf.godns.cc
 isp.254301.xyz
+cmcc.cc.cd
 china-mobile.cname.cloudflare.468123.xyz
 www.carousell.sg
+cfip-cm.stoeaves.us.ci
 cdn.fiatnorm.us.kg
 oo.xzhi.eu.org
 digitalocean.com
@@ -124,13 +126,11 @@ dynadot.com
 8.cf.3666888.xyz
 run.254301.xyz
 ikankeji.com
-cmcc.cc.cd
 ctlmt.info
 cloudflare.468123.xyz
 tuite-c0f.pages.dev
 cf.cooteep.com
 cfip-cu.stoeaves.us.ci
-cfip-cm.stoeaves.us.ci
 cnamefuckxxs.yuchen.icu
 9mod.com
 dash.cloudflare.com
@@ -182,7 +182,6 @@ www.roche.com
 yx.oracle-img.eu.org
 registry.yarnpkg.com
 cf.xreak.top
-cloudflare.19931110.xyz
 pages.cloudflare.com
 www.hypixel.net
 stlouiscountymo.gov
@@ -198,3 +197,4 @@ zabc.net
 singapore.com
 redis.io
 egov.uscis.gov
+dev.graco.com
