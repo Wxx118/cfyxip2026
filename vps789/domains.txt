@@ -147,9 +147,11 @@ nist.gov
 cf.877771.xyz
 blog.raindew.576555.xyz
 login.rockwellautomation.com
+www.elysee.fr
 zh-wireguard.com
 www.6i5.com
 chinwa.cf.090227.xyz
+cloudflare.468123.xyz
 cdn.2x.nz
 cf.553314.xyz
 cfip-cm.stoeaves.us.ci
@@ -160,6 +162,7 @@ shen6011.pages.dev
 cfip.1323123.xyz
 time.is
 www.epicgames.com
+redis.io
 development.ihg.com
 mskcc.org
 unpkg.com
@@ -175,10 +178,8 @@ cf.090227.xyz
 cmcc.090227.xyz
 cf.130519.xyz
 p.etime.vip
-egov.uscis.gov
 journeys.com
 themeisle.com
-www.elysee.fr
 www.applevis.com
 www.canadatype.com
 moondroplab.com
@@ -186,7 +187,6 @@ challenges.cloudflare.com
 111.cf.cname.vvhan.com
 hzytjy.cn
 newsroom.avalara.com
-cloudflare.468123.xyz
 visa.com.tw
 cfip-cu.stoeaves.us.ci
 trump.com
@@ -195,6 +195,6 @@ kali.download
 visa.com
 www.visa.com.hk
 japan.com
-redis.io
 www.hugedomains.com
 stlouiscountymo.gov
+www.moc.gov.tw
