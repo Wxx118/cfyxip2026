@@ -66,6 +66,7 @@ cfgo.timelate.com
 markmonitor.com
 ctsg.cfyx.aliyun.20237737.xyz
 www.dg22.top
+www.akasantech.com
 play.mc.js.cool
 coke.cf.3666888.xyz
 edgeone.gh-proxy.org
@@ -96,7 +97,6 @@ www.blibli.com
 ct.721660.xyz
 www.sloomb.com
 www.xflash.vip
-www.akasantech.com
 fk.hshwk.org
 prizepicks.com
 cfip-avg.stoeaves.us.ci
@@ -141,19 +141,20 @@ cdnjs.cloudflare.com
 11.cf.3666888.xyz
 investor.apple.com
 zen-browser.app
-yd.hhhhh.eu.org
 kali.download
 shen6011.pages.dev
 cloudflare.19931110.xyz
 journeys.com
 hostinger.com
 grass.io
+yd.hhhhh.eu.org
 kick.com
 cmcc.090227.xyz
 bestcf.030101.xyz
 i.pages.dev
 cf.130519.xyz
 development.ihg.com
+crowdstrike.com
 kwiat.com
 encryptedsni.com
 bitsight.com
@@ -181,7 +182,6 @@ registry.yarnpkg.com
 pages.cloudflare.com
 stlouiscountymo.gov
 racerseseries.sky.com
-crowdstrike.com
 mvnrepository.com
 tinyurl.com
 sourceforge.net
