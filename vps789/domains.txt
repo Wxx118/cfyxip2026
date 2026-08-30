@@ -187,7 +187,6 @@ tinyurl.com
 sourceforge.net
 packtpub.com
 www.botafogo.com.br
-codexradar.com
 www.visa.com.tw
 www.visa.com.hk
 zabc.net
@@ -198,3 +197,4 @@ dev.graco.com
 cloudflare.tv
 themeisle.com
 elegantthemes.com
+www.elysee.fr
