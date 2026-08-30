@@ -10,12 +10,12 @@ prompt.gzcrtw.com
 cfip-ct.stoeaves.us.ci
 cf.neko.cloudd.eu.org
 cf.neko.cloudflaree.eu.org
-w3.org
 cloudflare-ip.mofashi.ltd
 cfsaas.080112.xyz
 spring.io
 www.mastervolt.com
 dnew.cc
+w3.org
 www.crazygames.fr
 pwjbl.me
 youxuan.cf.3666888.xyz
@@ -140,6 +140,7 @@ www.libvio.site
 cdnjs.cloudflare.com
 11.cf.3666888.xyz
 investor.apple.com
+china-telecom.cname.cloudflare.468123.xyz
 zen-browser.app
 kali.download
 shen6011.pages.dev
@@ -170,7 +171,6 @@ www.revechat.com
 moondroplab.com
 challenges.cloudflare.com
 cmcc.cc.cd
-china-telecom.cname.cloudflare.468123.xyz
 www.trump.com
 scalacube.com
 dongbanghong.com
@@ -178,6 +178,7 @@ chrono24.com
 cfip-cm.stoeaves.us.ci
 cf.92555.xyz
 www.roche.com
+yx.oracle-img.eu.org
 registry.yarnpkg.com
 pages.cloudflare.com
 stlouiscountymo.gov
@@ -187,14 +188,13 @@ tinyurl.com
 sourceforge.net
 packtpub.com
 www.botafogo.com.br
+codexradar.com
 www.visa.com.tw
 www.visa.com.hk
 zabc.net
 singapore.com
 www.hypixel.net
+redis.io
 egov.uscis.gov
 dev.graco.com
 cloudflare.tv
-themeisle.com
-elegantthemes.com
-www.elysee.fr
