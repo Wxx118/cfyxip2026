@@ -34,7 +34,6 @@ uspto.gov
 yx.cf.090227.xyz
 www.vastnovel.com
 cf.blogluo.eu.org
-4gxb7l7p40.cloudflare-gateway.com
 neko.cloudd.eu.org
 neko.cloudflaree.eu.org
 www.ntu.edu.sg
@@ -70,11 +69,13 @@ www.akasantech.com
 play.mc.js.cool
 coke.cf.3666888.xyz
 edgeone.gh-proxy.org
+4gxb7l7p40.cloudflare-gateway.com
 www.deepl.com
 cf.877771.xyz
 store.ubi.com
 linear.app
 p.etime.vip
+gh-proxy.com
 cfyx.aliyun.20237737.xyz
 nexusmods.com
 m.iyf.tv
@@ -104,7 +105,6 @@ funko.com
 www.ox.ac.uk
 ip.skk.moe
 b3.cfyx.20237737.xyz
-gh-proxy.com
 7.cf.3666888.xyz
 www.galgamex.net
 cmcc.cc.cd
@@ -117,7 +117,6 @@ cf.godns.cc
 isp.254301.xyz
 china-mobile.cname.cloudflare.468123.xyz
 www.carousell.sg
-cf.xycf.asia
 cdn.fiatnorm.us.kg
 oo.xzhi.eu.org
 digitalocean.com
@@ -129,7 +128,6 @@ ikankeji.com
 ctlmt.info
 cloudflare.468123.xyz
 tuite-c0f.pages.dev
-cf.cooteep.com
 cfip-cu.stoeaves.us.ci
 cnamefuckxxs.yuchen.icu
 9mod.com
@@ -144,6 +142,8 @@ cdnjs.cloudflare.com
 investor.apple.com
 china-telecom.cname.cloudflare.468123.xyz
 zen-browser.app
+cf.cooteep.com
+cf.xycf.asia
 kali.download
 shen6011.pages.dev
 journeys.com
