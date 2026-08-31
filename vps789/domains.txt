@@ -161,6 +161,7 @@ virtualcommtraining.verizon.com
 vayyar.com
 mvnrepository.com
 qoj.ac
+cf1.v8.longsays.com
 codexradar.com
 worldvectorlogo.com
 time.is
@@ -179,7 +180,6 @@ cmcc.hw.090227.xyz
 investorrelations.medtronic.com
 cloudflare.468123.xyz
 isp.qzz.io
-cf1.v8.longsays.com
 api.cloudflare.com
 www.trump.com
 linkvertise.com
