@@ -126,13 +126,13 @@ www.mc.js.cool
 tinyurl.com
 dexari.com
 sg.cf.3666888.xyz
+cf.998866.top
 www.broadcom.com
 greim.no
 ctlmt.info
 www.trumpinternationalrealty.com
 ctsg.cfyx.aliyun.20237737.xyz
 4gxb7l7p40.cloudflare-gateway.com
-www.applevis.com
 www.apnic.net
 cf.v8.longsays.com
 api.uniapi.io
@@ -143,8 +143,8 @@ dev.graco.com
 mskcc.org
 unpkg.com
 store.epicgames.com
+www.applevis.com
 pure.coupert.com
-cf.998866.top
 imooo.de
 china-mobile.cname.cloudflare.468123.xyz
 abuse.cloudflare.com
@@ -160,7 +160,6 @@ ip.sb
 virtualcommtraining.verizon.com
 vayyar.com
 mvnrepository.com
-qoj.ac
 cf1.v8.longsays.com
 codexradar.com
 worldvectorlogo.com
@@ -170,8 +169,10 @@ pages.cloudflare.com
 dynadot.com
 www.ox.ac.uk
 crowdstrike.com
+go1.dematic.com
 sourceforge.net
 packtpub.com
+qoj.ac
 spirol.com
 www.revechat.com
 challenges.cloudflare.com
@@ -195,6 +196,5 @@ blog.cloudflare.com
 v.recipes
 www.whoer.net
 form.assaabloy.com
-go1.dematic.com
 www.moc.gov.tw
-clickhouse.com
+absen.com
