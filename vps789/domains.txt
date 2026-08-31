@@ -29,7 +29,6 @@ cloudflare.rainyfall.com
 uac.cf.3666888.xyz
 avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
-eteaf.cf.3666888.xyz
 3.cf.3666888.xyz
 6.cf.3666888.xyz
 8.cf.3666888.xyz
@@ -74,6 +73,7 @@ cdn.555586.xyz
 123.cf.3666888.xyz
 qocu.cf.3666888.xyz
 adnjv.cf.3666888.xyz
+eteaf.cf.3666888.xyz
 1.cf.3666888.xyz
 5.cf.3666888.xyz
 7.cf.3666888.xyz
@@ -99,8 +99,8 @@ play.mc.js.cool
 edgeone.gh-proxy.org
 cf.neko.cloudd.eu.org
 neko.cloudd.eu.org
-w3.org
 cfyx.aliyun.20237737.xyz
+w3.org
 www.leics.police.uk
 cfyx.qdqqd.com
 hfqek.cf.3666888.xyz
@@ -108,13 +108,13 @@ hfqek.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz
 cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
+cf.xreak.top
 cf.877771.xyz
 www.xiaoshuofen.com
 elron.ee
 cf.blogluo.eu.org
 ChinaTelecom.youxuan.zmxf.cc.cd
 ex.warspite.dpdns.org
-cf.xreak.top
 tuite-c0f.pages.dev
 digitalocean.com
 bestcf.top
@@ -140,7 +140,6 @@ cf.v8.longsays.com
 api.uniapi.io
 fbi.gov
 cf.130519.xyz
-www.ox.ac.uk
 login.rockwellautomation.com
 dev.graco.com
 mskcc.org
@@ -171,6 +170,7 @@ ip.sb
 dash.cloudflare.com
 pages.cloudflare.com
 dynadot.com
+www.ox.ac.uk
 crowdstrike.com
 sourceforge.net
 packtpub.com
