@@ -117,7 +117,6 @@ cf.blogluo.eu.org
 ChinaTelecom.youxuan.zmxf.cc.cd
 ex.warspite.dpdns.org
 tuite-c0f.pages.dev
-digitalocean.com
 bestcf.top
 cmcc.090227.xyz
 www.visa.com
@@ -133,6 +132,7 @@ ctlmt.info
 www.trumpinternationalrealty.com
 ctsg.cfyx.aliyun.20237737.xyz
 4gxb7l7p40.cloudflare-gateway.com
+digitalocean.com
 www.apnic.net
 cf.v8.longsays.com
 api.uniapi.io
@@ -160,6 +160,7 @@ ip.sb
 virtualcommtraining.verizon.com
 vayyar.com
 mvnrepository.com
+qoj.ac
 cf1.v8.longsays.com
 codexradar.com
 worldvectorlogo.com
@@ -169,10 +170,8 @@ pages.cloudflare.com
 dynadot.com
 www.ox.ac.uk
 crowdstrike.com
-go1.dematic.com
 sourceforge.net
 packtpub.com
-qoj.ac
 spirol.com
 www.revechat.com
 challenges.cloudflare.com
@@ -196,5 +195,6 @@ blog.cloudflare.com
 v.recipes
 www.whoer.net
 form.assaabloy.com
+go1.dematic.com
 www.moc.gov.tw
 absen.com
