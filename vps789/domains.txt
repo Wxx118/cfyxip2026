@@ -133,6 +133,7 @@ www.trumpinternationalrealty.com
 ctsg.cfyx.aliyun.20237737.xyz
 4gxb7l7p40.cloudflare-gateway.com
 digitalocean.com
+www.applevis.com
 www.apnic.net
 cf.v8.longsays.com
 api.uniapi.io
@@ -143,7 +144,6 @@ dev.graco.com
 mskcc.org
 unpkg.com
 store.epicgames.com
-www.applevis.com
 pure.coupert.com
 imooo.de
 china-mobile.cname.cloudflare.468123.xyz
@@ -156,6 +156,7 @@ neko.cloudflaree.eu.org
 images.chesscomfiles.com
 www.dbs.com.sg
 cloudflare.com
+cloudflare.19931110.xyz
 ip.sb
 virtualcommtraining.verizon.com
 vayyar.com
@@ -197,4 +198,3 @@ www.whoer.net
 form.assaabloy.com
 go1.dematic.com
 www.moc.gov.tw
-absen.com
