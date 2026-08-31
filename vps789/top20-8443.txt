@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 08-31 11:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 08-31 12:11 | BestCF.pages.dev
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
 constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
@@ -9,9 +9,9 @@ avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 yg4.ygkkk.dpdns.org:8443#VPS789优选 | yg4.ygkkk.dpdns.org
 cf.neko.cloudd.eu.org:8443#VPS789优选 | cf.neko.cloudd.eu.org
 w3.org:8443#VPS789优选 | w3.org
+openai.com:8443#VPS789优选 | openai.com
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 spring.io:8443#VPS789优选 | spring.io
-www.mastervolt.com:8443#VPS789优选 | www.mastervolt.com
 dnew.cc:8443#VPS789优选 | dnew.cc
 www.crazygames.fr:8443#VPS789优选 | www.crazygames.fr
 www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
