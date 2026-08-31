@@ -5,7 +5,6 @@ cfvip.cf.3666888.xyz
 123.cf.3666888.xyz
 avido.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
-www.xiaoshuofen.com
 prompt.gzcrtw.com
 cfip-ct.stoeaves.us.ci
 cf.neko.cloudd.eu.org
@@ -30,6 +29,7 @@ hfqek.cf.3666888.xyz
 9.cf.3666888.xyz
 www.broadcom.com
 securecircle.com
+www.xiaoshuofen.com
 www.bangbenjiaju.com
 uspto.gov
 www.vastnovel.com
@@ -114,6 +114,7 @@ bestcf.top
 cdns.doon.eu.org
 cf.godns.cc
 isp.254301.xyz
+china-telecom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 www.gov.il
 www.carousell.sg
@@ -127,7 +128,6 @@ dynadot.com
 11.cf.3666888.xyz
 ikankeji.com
 ctlmt.info
-china-telecom.cname.cloudflare.468123.xyz
 yx.cf.090227.xyz
 cfip-cu.stoeaves.us.ci
 cnamefuckxxs.yuchen.icu
@@ -150,8 +150,10 @@ shen6011.pages.dev
 journeys.com
 hostinger.com
 grass.io
+codexradar.com
 cmcc.090227.xyz
 bestcf.030101.xyz
+dogechain.info
 development.ihg.com
 kwiat.com
 encryptedsni.com
@@ -166,7 +168,6 @@ help.kolet.com
 dexari.com
 moondroplab.com
 challenges.cloudflare.com
-www.acces-maroc.ma
 www.trump.com
 scalacube.com
 dongbanghong.com
@@ -179,18 +180,17 @@ www.hypixel.net
 stlouiscountymo.gov
 mvnrepository.com
 sourceforge.net
-packtpub.com
-codexradar.com
 kick.com
 www.visa.com.tw
 www.visa.com.hk
 i.pages.dev
-dogechain.info
 zabc.net
 singapore.com
 cf.130519.xyz
 cloudflare.tv
 themeisle.com
+packtpub.com
+www.jimdo.com
 elegantthemes.com
 www.elysee.fr
 qoj.ac
