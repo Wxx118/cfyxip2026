@@ -69,6 +69,7 @@ cdn.cf.3666888.xyz
 vip.cf.3666888.xyz
 cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz
+cfyx.qdqqd.com
 cdn.555586.xyz
 123.cf.3666888.xyz
 qocu.cf.3666888.xyz
@@ -93,7 +94,6 @@ www.carousell.sg
 www.blibli.com
 www.giannidelprete.it
 fk.hshwk.org
-prompt.gzcrtw.com
 prizepicks.com
 play.mc.js.cool
 edgeone.gh-proxy.org
@@ -102,14 +102,15 @@ neko.cloudd.eu.org
 cfyx.aliyun.20237737.xyz
 w3.org
 www.leics.police.uk
-cfyx.qdqqd.com
 hfqek.cf.3666888.xyz
 4.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz
+prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
 cf.xreak.top
 cf.877771.xyz
+fn.130519.xyz
 www.xiaoshuofen.com
 elron.ee
 cf.blogluo.eu.org
@@ -120,7 +121,6 @@ digitalocean.com
 bestcf.top
 cmcc.090227.xyz
 www.visa.com
-fn.130519.xyz
 cf.godns.cc
 www.mc.js.cool
 tinyurl.com
@@ -132,7 +132,6 @@ ctlmt.info
 www.trumpinternationalrealty.com
 ctsg.cfyx.aliyun.20237737.xyz
 4gxb7l7p40.cloudflare-gateway.com
-cloudflare.com
 store.epicgames.com
 www.applevis.com
 www.apnic.net
@@ -157,11 +156,11 @@ alternativeto.net
 neko.cloudflaree.eu.org
 images.chesscomfiles.com
 www.dbs.com.sg
+cloudflare.com
 virtualcommtraining.verizon.com
 vayyar.com
 mvnrepository.com
 qoj.ac
-investor.apple.com
 cf1.v8.longsays.com
 codexradar.com
 worldvectorlogo.com
@@ -177,7 +176,7 @@ packtpub.com
 fictiv.com
 spirol.com
 www.revechat.com
-111.cf.cname.vvhan.com
+www.yutank.com
 cmcc.hw.090227.xyz
 investorrelations.medtronic.com
 cloudflare.468123.xyz
@@ -185,7 +184,6 @@ isp.qzz.io
 api.cloudflare.com
 www.trump.com
 linkvertise.com
-yd.hhhhh.eu.org
 pubs.acs.org
 kick.com
 yx.oracle-img.eu.org
@@ -198,3 +196,5 @@ shen6011.pages.dev
 blog.cloudflare.com
 v.recipes
 www.whoer.net
+form.assaabloy.com
+go1.dematic.com
