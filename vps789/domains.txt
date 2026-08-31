@@ -99,8 +99,8 @@ play.mc.js.cool
 edgeone.gh-proxy.org
 cf.neko.cloudd.eu.org
 neko.cloudd.eu.org
-cfyx.aliyun.20237737.xyz
 w3.org
+cfyx.aliyun.20237737.xyz
 www.leics.police.uk
 hfqek.cf.3666888.xyz
 4.cf.3666888.xyz
@@ -132,7 +132,6 @@ ctlmt.info
 www.trumpinternationalrealty.com
 ctsg.cfyx.aliyun.20237737.xyz
 4gxb7l7p40.cloudflare-gateway.com
-store.epicgames.com
 www.applevis.com
 www.apnic.net
 cf.v8.longsays.com
@@ -143,6 +142,7 @@ login.rockwellautomation.com
 dev.graco.com
 mskcc.org
 unpkg.com
+store.epicgames.com
 pure.coupert.com
 challenges.cloudflare.com
 cf.998866.top
@@ -157,15 +157,14 @@ neko.cloudflaree.eu.org
 images.chesscomfiles.com
 www.dbs.com.sg
 cloudflare.com
+ip.sb
 virtualcommtraining.verizon.com
 vayyar.com
 mvnrepository.com
 qoj.ac
-cf1.v8.longsays.com
 codexradar.com
 worldvectorlogo.com
 time.is
-ip.sb
 dash.cloudflare.com
 pages.cloudflare.com
 dynadot.com
@@ -173,7 +172,6 @@ www.ox.ac.uk
 crowdstrike.com
 sourceforge.net
 packtpub.com
-fictiv.com
 spirol.com
 www.revechat.com
 www.yutank.com
@@ -181,6 +179,7 @@ cmcc.hw.090227.xyz
 investorrelations.medtronic.com
 cloudflare.468123.xyz
 isp.qzz.io
+cf1.v8.longsays.com
 api.cloudflare.com
 www.trump.com
 linkvertise.com
@@ -198,3 +197,4 @@ v.recipes
 www.whoer.net
 form.assaabloy.com
 go1.dematic.com
+www.moc.gov.tw
