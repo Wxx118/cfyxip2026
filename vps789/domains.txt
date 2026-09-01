@@ -18,6 +18,7 @@ cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 uac.cf.3666888.xyz
 6.cf.3666888.xyz
+7.cf.3666888.xyz
 8.cf.3666888.xyz
 9.cf.3666888.xyz
 11.cf.3666888.xyz
@@ -46,6 +47,7 @@ cf.3666888.xyz
 gh-proxy.com
 constitution.congress.gov
 dnew.cc
+login.rockwellautomation.com
 ahrefs.com
 www.sage.com
 m.iyf.tv
@@ -106,7 +108,6 @@ cloudflare.19931110.xyz
 aandd.co.jp
 bestcf.030101.xyz
 cf.877771.xyz
-yxip.xxxxxxxx.tk
 leawo.org
 cf.cf.3666888.xyz
 5.cf.3666888.xyz
@@ -118,13 +119,12 @@ www.dg22.top
 edgeone.gh-proxy.org
 yg12.ygkkk.dpdns.org
 www.6i5.com
-cf.090227.xyz
 cnamefuckxxs.yuchen.icu
 cf.v8.longsays.com
 dash.cloudflare.com
+yxip.xxxxxxxx.tk
 fn.130519.xyz
 www.5199dy.com
-cmcc.vvvv.ee
 www.dentoncounty.gov
 guide.for.edu.sg
 thebeat.gehealthcare.com
@@ -156,6 +156,7 @@ cdn.2020111.xyz
 i.pages.dev
 ip.skk.moe
 cloudflare.cfgo.cc
+cmcc.vvvv.ee
 versantstore.pearson.com
 themeisle.com
 buyshoes.shop
@@ -190,7 +191,6 @@ cmcc.090227.xyz
 cmcc.877774.xyz
 bestcfv4.030101.xyz
 fbi.gov
-www.hypixel.net
 stlouiscountymo.gov
 tinyurl.com
 networksolutions.com
