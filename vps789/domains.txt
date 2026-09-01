@@ -120,6 +120,7 @@ tuite-c0f.pages.dev
 bestcf.top
 cmcc.090227.xyz
 www.visa.com
+cf.130519.xyz
 cf.godns.cc
 www.mc.js.cool
 tinyurl.com
@@ -138,7 +139,6 @@ www.apnic.net
 cf.v8.longsays.com
 api.uniapi.io
 fbi.gov
-cf.130519.xyz
 login.rockwellautomation.com
 dev.graco.com
 mskcc.org
@@ -150,6 +150,7 @@ china-mobile.cname.cloudflare.468123.xyz
 abuse.cloudflare.com
 yx.cf.090227.xyz
 ct.721660.xyz
+cf.xycf.asia
 cdn.fiatnorm.us.kg
 alternativeto.net
 neko.cloudflaree.eu.org
@@ -197,4 +198,3 @@ v.recipes
 www.whoer.net
 form.assaabloy.com
 go1.dematic.com
-www.moc.gov.tw
