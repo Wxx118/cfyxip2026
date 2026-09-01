@@ -134,10 +134,10 @@ www.jimdo.com
 youxuan.cf.090227.xyz
 cdnjs.cloudflare.com
 keji.cf.3666888.xyz
+2.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
 www.galgamex.net
 www.xflash.vip
-cf.553314.xyz
 cfip-cu.stoeaves.us.ci
 cf.blogluo.eu.org
 images.chesscomfiles.com
@@ -167,10 +167,12 @@ chinwa.cf.090227.xyz
 www.gov.il
 api.cloudflare.com
 tuite-c0f.pages.dev
+cf.553314.xyz
 codexradar.com
 yx.oracle-img.eu.org
 cdn.fiatnorm.us.kg
 alternativeto.net
+registry.yarnpkg.com
 lt.1930812.xyz
 ip.sb
 v.recipes
@@ -182,7 +184,6 @@ mvnrepository.com
 store.epicgames.com
 pure.coupert.com
 worldvectorlogo.com
-registry.yarnpkg.com
 cdnjs.loli.net
 cmcc.090227.xyz
 cmcc.877774.xyz
@@ -197,4 +198,3 @@ clickhouse.com
 www.applevis.com
 www.botafogo.com.br
 www.timbuktutravel.com
-yg3.ygkkk.dpdns.org
