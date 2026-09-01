@@ -117,7 +117,6 @@ china-telecom.cname.cloudflare.468123.xyz
 1749991941.bilibiliapp.cn
 www.dg22.top
 edgeone.gh-proxy.org
-codeforces.com
 yg12.ygkkk.dpdns.org
 www.6i5.com
 cdn.2020111.xyz
@@ -126,11 +125,13 @@ cf.v8.longsays.com
 dash.cloudflare.com
 fn.130519.xyz
 www.5199dy.com
+cmcc.vvvv.ee
 www.dentoncounty.gov
 guide.for.edu.sg
 thebeat.gehealthcare.com
 kwiat.com
 www.jimdo.com
+codeforces.com
 youxuan.cf.090227.xyz
 cdnjs.cloudflare.com
 keji.cf.3666888.xyz
@@ -197,4 +198,3 @@ clickhouse.com
 9mod.com
 www.applevis.com
 www.botafogo.com.br
-www.timbuktutravel.com
