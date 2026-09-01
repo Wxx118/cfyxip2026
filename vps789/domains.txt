@@ -12,6 +12,7 @@ nexusmods.com
 spring.io
 www.mc.js.cool
 www.vmware.com
+m.iyf.tv
 pwjbl.me
 jp.cf.3666888.xyz
 cf1s.cf.3666888.xyz
@@ -33,7 +34,6 @@ www.giannidelprete.it
 fk.hshwk.org
 coke.cf.3666888.xyz
 131.youxuan.cf.090227.xyz
-ex.warspite.dpdns.org
 neko.cloudd.eu.org
 neko.cloudflaree.eu.org
 oo.xzhi.eu.org
@@ -50,7 +50,6 @@ dnew.cc
 login.rockwellautomation.com
 ahrefs.com
 www.sage.com
-m.iyf.tv
 cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz
@@ -93,6 +92,7 @@ cdn.7zz.cn
 markmonitor.com
 cfip-cm.stoeaves.us.ci
 funko.com
+ex.warspite.dpdns.org
 cf.neko.cloudd.eu.org
 cf.neko.cloudflaree.eu.org
 bestcf.top
@@ -187,6 +187,7 @@ store.epicgames.com
 pure.coupert.com
 worldvectorlogo.com
 cdnjs.loli.net
+cm.cf.090902.xyz
 cmcc.090227.xyz
 cmcc.877774.xyz
 bestcfv4.030101.xyz
@@ -197,4 +198,3 @@ networksolutions.com
 clickhouse.com
 9mod.com
 www.applevis.com
-www.botafogo.com.br
