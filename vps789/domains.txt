@@ -104,7 +104,6 @@ ctsg.cfyx.aliyun.20237737.xyz
 cf.xreak.top
 cloudflare.19931110.xyz
 aandd.co.jp
-cf.090227.xyz
 bestcf.030101.xyz
 cf.877771.xyz
 yxip.xxxxxxxx.tk
@@ -119,7 +118,7 @@ www.dg22.top
 edgeone.gh-proxy.org
 yg12.ygkkk.dpdns.org
 www.6i5.com
-cdn.2020111.xyz
+cf.090227.xyz
 cnamefuckxxs.yuchen.icu
 cf.v8.longsays.com
 dash.cloudflare.com
@@ -153,6 +152,7 @@ rocketreach.co
 uptimerobot.com
 builtbybuffalo.com
 www.yutank.com
+cdn.2020111.xyz
 i.pages.dev
 ip.skk.moe
 cloudflare.cfgo.cc
