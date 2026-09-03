@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 09-04 01:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 09-04 02:11 | BestCF.pages.dev
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 www.mastervolt.com:8443#VPS789优选 | www.mastervolt.com
@@ -24,7 +24,7 @@ adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
 3.cf.3666888.xyz:8443#VPS789优选 | 3.cf.3666888.xyz
 10.cf.3666888.xyz:8443#VPS789优选 | 10.cf.3666888.xyz
 11.cf.3666888.xyz:8443#VPS789优选 | 11.cf.3666888.xyz
-yg1.ygkkk.dpdns.org:8443#VPS789优选 | yg1.ygkkk.dpdns.org
+test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 securecircle.com:8443#VPS789优选 | securecircle.com
 cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
 cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
