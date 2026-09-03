@@ -9,6 +9,7 @@ securecircle.com
 cfgo.timelate.com
 www.sloomb.com
 prizepicks.com
+ex.warspite.dpdns.org
 www.shopify.com
 linear.app
 cf.3666888.xyz
@@ -40,7 +41,6 @@ play.mc.js.cool
 cloudflare-ip.mofashi.ltd
 openai.com
 cu.877774.xyz
-gh-proxy.com
 guide.for.edu.sg
 constitution.congress.gov
 w3.org
@@ -65,7 +65,6 @@ coke.cf.3666888.xyz
 funko.com
 edgeone.gh-proxy.org
 4gxb7l7p40.cloudflare-gateway.com
-ex.warspite.dpdns.org
 cf.neko.cloudflaree.eu.org
 neko.cloudd.eu.org
 neko.cloudflaree.eu.org
@@ -74,6 +73,7 @@ cdns.doon.eu.org
 store.ubi.com
 staticdelivery.nexusmods.com
 p.etime.vip
+gh-proxy.com
 www.mastervolt.com
 m.iyf.tv
 cdn.cf.3666888.xyz
@@ -84,7 +84,6 @@ hfqek.cf.3666888.xyz
 6.cf.3666888.xyz
 www.xiaoshuofen.com
 cmcc.cc.cd
-www.giannidelprete.it
 cf.neko.cloudd.eu.org
 oo.xzhi.eu.org
 www.udacity.com
@@ -108,6 +107,7 @@ ahrefs.com
 dexari.com
 www.nexusmods.com
 cdn.091224.xyz
+www.giannidelprete.it
 images.chesscomfiles.com
 cf.xreak.top
 clickhouse.com
@@ -123,6 +123,7 @@ elron.ee
 ctsg.cfyx.aliyun.20237737.xyz
 ct.721660.xyz
 alternativeto.net
+zj.7star.eu.cc
 unpkg.com
 yg12.ygkkk.dpdns.org
 webn.cc
@@ -132,7 +133,6 @@ cmcc.877774.xyz
 cfsaas.080112.xyz
 www.5199dy.com
 stlouiscountymo.gov
-serviceshub.samsclub.com
 mskcc.org
 www.mc.js.cool
 mogas.com
@@ -146,10 +146,10 @@ grass.io
 cf.vvhan.com
 cmcc.090227.xyz
 www.visa.com.hk
-dash.cloudflare.com
 i.pages.dev
 cfyx.aliyun.20237737.xyz
 www.dentoncounty.gov
+serviceshub.samsclub.com
 bitsight.com
 www.elysee.fr
 china.mfa.gov.ua
@@ -160,10 +160,10 @@ cfip-cu.stoeaves.us.ci
 trump.com
 pubs.acs.org
 www.spacex.com
-zj.7star.eu.cc
 store.ubisoft.com
 tuite-c0f.pages.dev
 www.loc.gov
+dash.cloudflare.com
 pages.cloudflare.com
 cmcc.vvvv.ee
 dynadot.com
@@ -187,7 +187,6 @@ www.trump.com
 yd.zhuqq.qzz.io
 registry.yarnpkg.com
 shen6011.pages.dev
-666.cf.cname.vvhan.com
 www.visa.com
 www.ox.ac.uk
 racerseseries.sky.com
@@ -197,4 +196,5 @@ journeys.com
 hostinger.com
 zoominfo.com
 www.donaldjtrump.com
+worldvectorlogo.com
 www.chess.com
