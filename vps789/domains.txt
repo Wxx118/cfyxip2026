@@ -11,9 +11,11 @@ www.mc.js.cool
 sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz
 123.cf.3666888.xyz
+avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 10.cf.3666888.xyz
+test.509666.xyz
 www.nexusmods.com
 securecircle.com
 www.bangbenjiaju.com
@@ -42,7 +44,6 @@ cf.cf.3666888.xyz
 cloudflare.rainyfall.com
 qocu.cf.3666888.xyz
 uac.cf.3666888.xyz
-avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
@@ -51,13 +52,13 @@ hfqek.cf.3666888.xyz
 7.cf.3666888.xyz
 9.cf.3666888.xyz
 11.cf.3666888.xyz
-test.509666.xyz
 yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org
 yg4.ygkkk.dpdns.org
 www.broadcom.com
 www.mfyx.cn
 cdn.7zz.cn
+uspto.gov
 markmonitor.com
 www.vastnovel.com
 www.akasantech.com
@@ -83,7 +84,7 @@ cfvip.cf.3666888.xyz
 6.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
 cmcc.cc.cd
-uspto.gov
+cf.468123.xyz
 www.carousell.sg
 www.sloomb.com
 prompt.gzcrtw.com
@@ -97,9 +98,9 @@ cf1s.cf.3666888.xyz
 cdn.555586.xyz
 isp.254301.xyz
 www.xiaoshuofen.com
-cf.468123.xyz
 www.blibli.com
 ctsg.cfyx.aliyun.20237737.xyz
+www.giannidelprete.it
 cf.553314.xyz
 cf.92555.xyz
 ex.warspite.dpdns.org
@@ -109,7 +110,6 @@ ikankeji.com
 china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 www.xflash.vip
-www.giannidelprete.it
 cf.cooteep.com
 cfip-cu.stoeaves.us.ci
 www.090902.xyz
@@ -124,9 +124,10 @@ cfyx.aliyun.20237737.xyz
 absen.com
 run.254301.xyz
 www.6i5.com
-cf1.v8.longsays.com
 centerofthewest.org
 unpkg.com
+yg7.ygkkk.dpdns.org
+cf1.v8.longsays.com
 pubs.acs.org
 nodejs.org
 blog.cloudflare.com
@@ -135,6 +136,7 @@ www.visa.com.hk
 cf.130519.xyz
 dynadot.com
 www.hugedomains.com
+coreweave.com
 www.sage.com
 zoominfo.com
 cdnjs.cloudflare.com
@@ -152,7 +154,7 @@ store.epicgames.com
 mogas.com
 www.meteorelectrical.com
 pure.coupert.com
-yg7.ygkkk.dpdns.org
+yg12.ygkkk.dpdns.org
 investor.apple.com
 webn.cc
 codexradar.com
@@ -161,12 +163,11 @@ cmcc.877774.xyz
 gitlab.com
 stlouiscountymo.gov
 thebeat.gehealthcare.com
-coreweave.com
 aftership.com
 themeisle.com
 elegantthemes.com
+challenges.cloudflare.com
 8.cf.3666888.xyz
-yg12.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
 hzytjy.cn
 www.trumpgolf.com
@@ -177,7 +178,6 @@ cfip-cm.stoeaves.us.ci
 garuda-indonesia.com
 www.visa.com.tw
 zabc.net
-debot.ai
 vayyar.com
 buyshoes.shop
 help.kolet.com
@@ -190,6 +190,7 @@ time.is
 bestcf.030101.xyz
 cf.877771.xyz
 yxip.xxxxxxxx.tk
+debot.ai
 racerseseries.sky.com
 crowdstrike.com
 journeys.com
@@ -197,4 +198,3 @@ sunkist.com
 jquery.com
 hubspot.com
 tinyurl.com
-networksolutions.com
