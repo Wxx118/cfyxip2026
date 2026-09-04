@@ -1,6 +1,6 @@
 2dust/v2rayN|7.24.9|2026-08-29
 2dust/v2rayNG|2.2.6|2026-07-05
-666OS/ClashMac|27.1.2|2026-07-16
+666OS/ClashMac|27.1.3|2026-09-04
 GUI-for-Cores/GUI.for.Clash|1.26.1|2026-07-21
 GUI-for-Cores/GUI.for.SingBox|1.26.1|2026-07-21
 GtxFury/FlyClash|0.2.9|2026-05-17
