@@ -88,7 +88,6 @@ cfip-ct.stoeaves.us.ci
 bestcf.top
 cdns.doon.eu.org
 cf.v8.longsays.com
-fn.130519.xyz
 bestcfv4.030101.xyz
 www.5199dy.com
 hk.cf.3666888.xyz
@@ -100,15 +99,14 @@ cf.998866.top
 yg2.ygkkk.dpdns.org
 www.mfyx.cn
 cf1.v8.longsays.com
-prompt.gzcrtw.com
 cfip-cu.stoeaves.us.ci
 play.mc.js.cool
-cf.xreak.top
 i.pages.dev
 clickhouse.com
 webn.cc
 shen6011.pages.dev
 cdn.2020111.xyz
+fn.130519.xyz
 cmcc.877774.xyz
 www.mastervolt.com
 thebeat.gehealthcare.com
@@ -118,7 +116,9 @@ china-telecom.cname.cloudflare.468123.xyz
 markmonitor.com
 ctsg.cfyx.aliyun.20237737.xyz
 www.xflash.vip
+prompt.gzcrtw.com
 cfip-cm.stoeaves.us.ci
+cf.xreak.top
 www.visa.com.sg
 pages.cloudflare.com
 www.epicgames.com
@@ -174,7 +174,6 @@ uac.cf.3666888.xyz
 www.broadcom.com
 cmcc.hw.090227.xyz
 hzytjy.cn
-yx.cf.090227.xyz
 www.vastnovel.com
 yd.hhhhh.eu.org
 cf.vvhan.com
@@ -198,3 +197,4 @@ greim.no
 cloudflare.468123.xyz
 dongbanghong.com
 cf.xycf.asia
+4gxb7l7p40.cloudflare-gateway.com
