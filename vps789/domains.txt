@@ -100,13 +100,13 @@ isp.254301.xyz
 cf.998866.top
 yg2.ygkkk.dpdns.org
 www.mfyx.cn
+cf1.v8.longsays.com
 cfip-cu.stoeaves.us.ci
 play.mc.js.cool
 cf.xreak.top
 i.pages.dev
 clickhouse.com
 webn.cc
-cf1.v8.longsays.com
 shen6011.pages.dev
 cdn.2020111.xyz
 cmcc.877774.xyz
@@ -139,6 +139,7 @@ www.moc.gov.tw
 bitsight.com
 envato.com
 tinyurl.com
+packtpub.com
 zoominfo.com
 builtbybuffalo.com
 cdnjs.cloudflare.com
@@ -156,7 +157,6 @@ api.uniapi.io
 debot.ai
 mskcc.org
 unpkg.com
-packtpub.com
 absen.com
 challenges.cloudflare.com
 pubs.acs.org
