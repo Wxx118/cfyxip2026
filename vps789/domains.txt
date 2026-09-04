@@ -119,12 +119,12 @@ markmonitor.com
 ctsg.cfyx.aliyun.20237737.xyz
 www.xflash.vip
 cfip-cm.stoeaves.us.ci
-1.cloudflare.19931110.xyz
 ex.warspite.dpdns.org
 www.visa.com.sg
 pages.cloudflare.com
 www.epicgames.com
 www.whoer.net
+cloudflare.tv
 store.epicgames.com
 pure.coupert.com
 yg7.ygkkk.dpdns.org
@@ -135,7 +135,6 @@ www.udacity.com
 cf.877771.xyz
 www.postman.com
 dev.graco.com
-cloudflare.tv
 www.moc.gov.tw
 bitsight.com
 envato.com
@@ -148,6 +147,7 @@ china-mobile.cname.cloudflare.468123.xyz
 ct.721660.xyz
 grass.io
 chrono24.com
+1.cloudflare.19931110.xyz
 cdn.fiatnorm.us.kg
 alternativeto.net
 images.chesscomfiles.com
@@ -174,7 +174,6 @@ fictiv.com
 www.botafogo.com.br
 uac.cf.3666888.xyz
 8.cf.3666888.xyz
-yg8.ygkkk.dpdns.org
 www.broadcom.com
 cmcc.hw.090227.xyz
 cloudflare.468123.xyz
@@ -182,7 +181,6 @@ yx.cf.090227.xyz
 www.vastnovel.com
 yd.hhhhh.eu.org
 cf.vvhan.com
-131.youxuan.cf.090227.xyz
 www.chess.com
 gitlab.com
 help.kolet.com
@@ -197,4 +195,6 @@ rocketreach.co
 www.doiting.com
 moondroplab.com
 cf1s.cf.3666888.xyz
+cfyx.qdqqd.com
 img.css.sd
+yg12.ygkkk.dpdns.org
