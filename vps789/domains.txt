@@ -63,7 +63,6 @@ w3.org
 www.ntu.edu.sg
 b3.cfyx.20237737.xyz
 store.ubi.com
-cf.130519.xyz
 nexusmods.com
 www.dentoncounty.gov
 dnew.cc
@@ -76,6 +75,7 @@ cfip-avg.stoeaves.us.ci
 funko.com
 www.deepl.com
 www.5199dy.com
+cf.130519.xyz
 guide.for.edu.sg
 constitution.congress.gov
 pwjbl.me
@@ -119,7 +119,6 @@ markmonitor.com
 ctsg.cfyx.aliyun.20237737.xyz
 www.xflash.vip
 cfip-cm.stoeaves.us.ci
-ex.warspite.dpdns.org
 www.visa.com.sg
 pages.cloudflare.com
 www.epicgames.com
@@ -130,7 +129,6 @@ pure.coupert.com
 yg7.ygkkk.dpdns.org
 abuse.cloudflare.com
 cmcc.090227.xyz
-www.udacity.com
 666.cf.cname.vvhan.com
 cf.877771.xyz
 www.postman.com
@@ -149,7 +147,6 @@ ct.721660.xyz
 grass.io
 chrono24.com
 1.cloudflare.19931110.xyz
-cdn.fiatnorm.us.kg
 alternativeto.net
 images.chesscomfiles.com
 ip.sb
@@ -164,6 +161,7 @@ blog.cloudflare.com
 cnamefuckxxs.yuchen.icu
 time.is
 dash.cloudflare.com
+www.udacity.com
 fbi.gov
 dynadot.com
 redis.io
@@ -176,11 +174,11 @@ uac.cf.3666888.xyz
 8.cf.3666888.xyz
 www.broadcom.com
 cmcc.hw.090227.xyz
-cloudflare.468123.xyz
 yx.cf.090227.xyz
 www.vastnovel.com
 yd.hhhhh.eu.org
 cf.vvhan.com
+ex.warspite.dpdns.org
 www.chess.com
 gitlab.com
 help.kolet.com
@@ -194,7 +192,9 @@ go1.dematic.com
 rocketreach.co
 www.doiting.com
 moondroplab.com
-cf1s.cf.3666888.xyz
 cfyx.qdqqd.com
 img.css.sd
 yg12.ygkkk.dpdns.org
+hzytjy.cn
+greim.no
+cloudflare.468123.xyz
