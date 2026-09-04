@@ -51,6 +51,7 @@ cloudflare.rainyfall.com
 qocu.cf.3666888.xyz
 avido.cf.3666888.xyz
 hfqek.cf.3666888.xyz
+3.cf.3666888.xyz
 10.cf.3666888.xyz
 www.xiaoshuofen.com
 cmcc.cc.cd
@@ -67,7 +68,6 @@ nexusmods.com
 www.dentoncounty.gov
 dnew.cc
 www.sage.com
-3.cf.3666888.xyz
 www.nexusmods.com
 securecircle.com
 cfgo.timelate.com
@@ -126,6 +126,7 @@ www.epicgames.com
 www.whoer.net
 store.epicgames.com
 yg7.ygkkk.dpdns.org
+cdn.2020111.xyz
 cmcc.090227.xyz
 www.udacity.com
 666.cf.cname.vvhan.com
@@ -146,6 +147,7 @@ cloudflare.468123.xyz
 ct.721660.xyz
 grass.io
 chrono24.com
+1.cloudflare.19931110.xyz
 alternativeto.net
 images.chesscomfiles.com
 api.uniapi.io
@@ -157,7 +159,6 @@ absen.com
 challenges.cloudflare.com
 pubs.acs.org
 blog.cloudflare.com
-cdn.2020111.xyz
 cnamefuckxxs.yuchen.icu
 time.is
 dash.cloudflare.com
@@ -172,6 +173,7 @@ builtbybuffalo.com
 uac.cf.3666888.xyz
 www.broadcom.com
 cmcc.hw.090227.xyz
+hzytjy.cn
 www.vastnovel.com
 yd.hhhhh.eu.org
 cf.vvhan.com
@@ -180,8 +182,10 @@ www.chess.com
 ip.sb
 gitlab.com
 help.kolet.com
+yg13.ygkkk.dpdns.org
 www.spacex.com
 bestcf.030101.xyz
+cmcc.vvvv.ee
 www.libvio.site
 crowdstrike.com
 go1.dematic.com
@@ -194,7 +198,3 @@ youxuan.cf.636949.xyz
 img.css.sd
 yg12.ygkkk.dpdns.org
 run.254301.xyz
-hzytjy.cn
-greim.no
-dongbanghong.com
-cf.92555.xyz
