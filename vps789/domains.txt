@@ -2,7 +2,6 @@ cu.877774.xyz
 cfsaas.080112.xyz
 www.mastervolt.com
 1.cf.3666888.xyz
-cdns.doon.eu.org
 openai.com
 staticdelivery.nexusmods.com
 cf.3666888.xyz
@@ -29,6 +28,7 @@ funko.com
 4gxb7l7p40.cloudflare-gateway.com
 cdn.fiatnorm.us.kg
 www.deepl.com
+cdns.doon.eu.org
 www.ntu.edu.sg
 www.udacity.com
 linear.app
@@ -124,6 +124,7 @@ cfyx.aliyun.20237737.xyz
 rocketreach.co
 absen.com
 run.254301.xyz
+www.galgamex.net
 www.6i5.com
 cf1.v8.longsays.com
 centerofthewest.org
@@ -137,12 +138,10 @@ www.visa.com.hk
 dynadot.com
 www.hugedomains.com
 stlouiscountymo.gov
-coreweave.com
 www.sage.com
 zoominfo.com
 cdnjs.cloudflare.com
 img.css.sd
-www.galgamex.net
 greim.no
 imooo.de
 yx.cf.090227.xyz
@@ -165,6 +164,7 @@ time.is
 cmcc.877774.xyz
 gitlab.com
 thebeat.gehealthcare.com
+coreweave.com
 aftership.com
 themeisle.com
 elegantthemes.com
@@ -179,16 +179,17 @@ linkvertise.com
 cfip-cm.stoeaves.us.ci
 garuda-indonesia.com
 www.visa.com.tw
+ping.pe
 zabc.net
 vayyar.com
 buyshoes.shop
 help.kolet.com
 yg11.ygkkk.dpdns.org
-yg13.ygkkk.dpdns.org
 alternativeto.net
 cdnjs.loli.net
 kali.download
 bestcf.030101.xyz
+ip.skk.moe
 cf.877771.xyz
 yxip.xxxxxxxx.tk
 debot.ai
@@ -197,4 +198,3 @@ crowdstrike.com
 journeys.com
 sunkist.com
 jquery.com
-bitsight.com
