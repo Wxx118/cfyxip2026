@@ -98,7 +98,6 @@ cf.998866.top
 yg2.ygkkk.dpdns.org
 www.mfyx.cn
 cf1.v8.longsays.com
-cfip-cu.stoeaves.us.ci
 play.mc.js.cool
 cf.xreak.top
 i.pages.dev
@@ -118,6 +117,7 @@ markmonitor.com
 ctsg.cfyx.aliyun.20237737.xyz
 www.xflash.vip
 prompt.gzcrtw.com
+cfip-cu.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
 www.visa.com.sg
 pages.cloudflare.com
@@ -191,10 +191,10 @@ rocketreach.co
 www.doiting.com
 moondroplab.com
 cfyx.qdqqd.com
-img.css.sd
 yg12.ygkkk.dpdns.org
 greim.no
-cloudflare.468123.xyz
 dongbanghong.com
 cf.xycf.asia
 4gxb7l7p40.cloudflare-gateway.com
+www.dbs.com.sg
+zero-trust-client.cloudflareclient.com
